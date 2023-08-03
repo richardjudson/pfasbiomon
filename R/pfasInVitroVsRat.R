@@ -7,9 +7,9 @@
 #--------------------------------------------------------------------------------------
 pfasInVitroVsRat <- function(to.file=F) {
   printCurrentFunction()
-  dir = paste0("../data/")
+  dir = paste0("data/")
   if(to.file) {
-    fname <- paste0(dir,"pfasInVitroVsRat.pdf")
+    fname <- paste0(dir,"figures/pfasInVitroVsRat.pdf")
     pdf(file=fname,width=7,height=10,pointsize=12,bg="white",paper="letter",pagecentre=T)
   }
   par(mfrow=c(2,1),mar=c(4,10,4,3))
@@ -54,7 +54,8 @@ pfasInVitroVsRat <- function(to.file=F) {
     for(k in 1:nrow(vals)) {
       pod = vals[k,2]
       shift = part[dtxsid,"Kmax"]*part[dtxsid,"fub"]
-      pod = pod*shift
+      cat(name,shift,"\n")
+      #pod = pod*shift
       cat(name,shift,"\n")
       sex = vals[k,1]
       col = "black"
@@ -78,7 +79,7 @@ pfasInVitroVsRat <- function(to.file=F) {
 
       if(pod<1000) {
         value = pod*cmw[dtxsid,"mw"]
-        value = value*part[dtxsid,"invitro.water.fraction"]*part[dtxsid,"invitro.vwell"]/part[dtxsid,"invitro.vwater"]
+        #value = value*part[dtxsid,"invitro.water.fraction"]*part[dtxsid,"invitro.vwell"]/part[dtxsid,"invitro.vwater"]
         yval = j-0.5 + rnorm(1,0,0.1)
         points(value,yval,pch=pch,bg=col)
       }
