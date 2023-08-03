@@ -5,7 +5,7 @@
 pfasBiomonitoringOldNewMergeForFiltering <- function() {
   printCurrentFunction()
   cat("read files\n")
-  dir = paste0("../data/")
+  dir = paste0("data/")
 
   # file = paste0(dir,"ACToR biomon data/PFAS biomonitoring assays raw res_actor_2023q1 2022-12-21.xlsx")
   # assays2 = read.xlsx(file)

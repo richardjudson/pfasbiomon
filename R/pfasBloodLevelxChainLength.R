@@ -7,9 +7,9 @@
 #--------------------------------------------------------------------------------------
 pfasBloodLevelxChainLength <- function(to.file=F) {
   printCurrentFunction()
-  dir = paste0("../data/")
+  dir = paste0("data/")
   if(to.file) {
-    fname <- paste0(dir,"pfasBloodLevelxChainLength.pdf")
+    fname <- paste0(dir,"figures/pfasBloodLevelxChainLength.pdf")
     pdf(file=fname,width=7,height=10,pointsize=12,bg="white",paper="letter",pagecentre=T)
   }
 
