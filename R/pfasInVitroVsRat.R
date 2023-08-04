@@ -71,17 +71,22 @@ pfasInVitroVsRat <- function(to.file=F) {
       if(length(grep("ACEA",name1))>0) col = "violet"
       if(length(grep("ATG",name1))>0) col = "blue"
       if(length(grep("BSK",name1))>0) col = "red"
-      if(length(grep("HTPP",name1))>0) col = "orange"
+      if(length(grep("HTPP",name1))>0) col = "#009E73"
       if(length(grep("HTTr",name1))>0) col = "cyan"
-      if(length(grep("Zeb",name1))>0) col = "green"
+      if(length(grep("Zeb",name1))>0) col = "#F0E442"
       if(length(grep("MEA",name1))>0) {col = "black"}
       if(length(grep("Thyr",name1))>0) {col = "gray"}
+
+
+      colorBlindBlack8  <- c("#000000", "#E69F00", "#56B4E9", "#009E73",
+                             "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
 
       if(pod<1000) {
         value = pod*cmw[dtxsid,"mw"]
         #value = value*part[dtxsid,"invitro.water.fraction"]*part[dtxsid,"invitro.vwell"]/part[dtxsid,"invitro.vwater"]
         yval = j-0.5 + rnorm(1,0,0.1)
-        points(value,yval,pch=pch,bg=col)
+        points(value,yval,pch=pch,bg=col,cex=1.2)
       }
     }
   }
