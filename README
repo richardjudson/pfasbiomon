@@ -1,6 +1,5 @@
 THis file contains instructions for managing code (git, documentation, ...)
 
-
 ---------------------------------------------------------------------------------------------
 Code Documentation
 ---------------------------------------------------------------------------------------------
@@ -23,43 +22,24 @@ Sys.setenv(PATH=paste(Sys.getenv("PATH"),"C:/Program Files/MiKTeX 2.9/miktex/bin
 
 Running documentation - this builds the file toxvaldb09_manual.pdf
 
-
 Sys.setenv(PATH = paste(Sys.getenv("PATH"), "C:/Program Files/MiKTeX 2.9/miktex/bin/x64", sep=.Platform$path.sep))
 Sys.setenv(R_PAPERSIZE="letter")
-system("R CMD Rd2pdf . --title=pfasbiomon pfasbiomon --output=../pfasbiomon_manual.pdf --force --no-clean --internals")
+system("R CMD Rd2pdf . --title=pfasbiomon pfasbiomon --output=pfasbiomon_manual.pdf --force --no-clean --internals")
 
 ---------------------------------------------------------------------------------------------
-Managing git and bitbucket - internal
+Managing git
 ---------------------------------------------------------------------------------------------
 
-adding to the remote bitbucket ...
-
-git config --global user.name "Richard Judson"
-git config --global user.email "judson.richard@epa.gov"
-
-cd existing-project
+echo "# pfasbiomon" >> README.md
 git init
-git add --all
-git commit -m "Initial Commit"
-git remote add origin ssh://git@ccte-bitbucket.epa.gov:7999/toxval/toxvaldb09.git
-git push -u origin HEAD:main
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/USEPA/pfasbiomon.git
+git push -u origin main
 
-cd existing-project
-git remote set-url origin ssh://git@ccte-bitbucket.epa.gov:7999/toxval/toxvaldb09.git
-git push -u origin --all
-git push origin --tagsr
+git remote add origin https://github.com/USEPA/pfasbiomon.git
+git branch -M main
+git push -u origin main
 
-git push -u origin master
-
-https://ccte-bitbucket.epa.gov/projects/TOXVAL/repos/toxvaldb09/browse
-
----------------------------------------------------------------------------------------------
-Managing git and bitbucket - external
----------------------------------------------------------------------------------------------
-
-
-
----------------------------------------------------------------------------------------------
-Compiling the Vignettes
----------------------------------------------------------------------------------------------
 
