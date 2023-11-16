@@ -10,6 +10,7 @@ library(forcats)
 #-------------------------------------------------------------------------------
 pfasMoeBoxplot <- function(to.file=F) {
   printCurrentFunction()
+  dir = "data/"
   file = "data/PFAS corrected moe.xlsx"
   res = read.xlsx(file)
   excludes = c("05th percentile","75th percentile","25th percentile")
@@ -40,7 +41,7 @@ pfasMoeBoxplot <- function(to.file=F) {
           plot.margin = margin(t=20,r=20,b=50,l=20),
           legend.text = element_text(size=12),
           legend.title = element_text(size=12)) +
-    geom_jitter(aes(color=exposed),size=0.5,alpha = 0.9) +
+    geom_jitter(aes(color=exposed),size=0.5,alpha = 0.9, width=0.15) +
     geom_hline(yintercept=1) +
     geom_hline(yintercept=100)
 

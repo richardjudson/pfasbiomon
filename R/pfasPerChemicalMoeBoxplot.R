@@ -77,7 +77,7 @@ pfasPerChemicalMoeBoxplot <- function(to.file=F) {
               plot.margin = margin(t=20,r=20,b=50,l=20),
               legend.text = element_text(size=12),
               legend.title = element_text(size=12)) +
-        geom_jitter(aes(color=exposed),size=0.5,alpha = 0.9)
+        geom_jitter(aes(color=exposed),size=0.5,alpha = 0.9,width=0.2)
 
       if(is.element(dtxsid,ivpod$dtxsid)) {
         temp = ivpod[is.element(ivpod$dtxsid,dtxsid),]
