@@ -8,7 +8,8 @@ Description: The package takes data from PFAS biomonitoring studies (blood, plas
     and in vitro bioactivity data and calculates margins of exposure (MoEs). This 
     supports the manuscript titled "A Comparison of In Vitro and In Vivo Points 
     of Departure with Human Biomonitoring Levels for Per- and 
-    Polyfluoroalkyl Substances (PFAS)"
+    Polyfluoroalkyl Substances (PFAS)". In the manuscript, the term MoE is replaced
+    by Bioactive Concentration to Blood Concentration Ratio (BCBCR)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
