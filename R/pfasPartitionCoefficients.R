@@ -12,18 +12,17 @@ pfasPartitionCoefficients <- function(species="Human") {
   # load_dawson2021()
   # load_pradeep2020()
 
-  file = "../data/PFAS synonyms.xlsx"
+  file = "data/PFAS synonyms.xlsx"
   synonyms = read.xlsx(file)
   rownames(synonyms) = synonyms$dtxsid
 
-  file = "../data/PFAS biomonitoring data final.xlsx"
+  file = "data/PFAS biomonitoring data final.xlsx"
   print(file)
   chems = read.xlsx(file)
   chems = unique(chems[,c("dtxsid","name","casrn")])
   cat(nrow(chems),"\n")
   chems0 = get_cheminfo(info="CAS")
-  chems = chems[is.element(chems$casrn,chems0),]
-  cat(nrow(chems),"\n")
+
   chems$nickname = NA
   chems$invitro.cell.fraction = NA
   chems$invitro.water.fraction = NA
@@ -46,7 +45,12 @@ pfasPartitionCoefficients <- function(species="Human") {
   chems$Kspleen2pu = NA
   chems$Krbc2pu = NA
   chems$Krest2pu = NA
-   for(i in 1:nrow(chems)) {
+  chems1 = chems[!is.element(chems$casrn,chems0),]
+  chems = chems[is.element(chems$casrn,chems0),]
+  chems1$blood2plasma = 0.5
+  cat(nrow(chems),"\n")
+
+  for(i in 1:nrow(chems)) {
     dtxsid = chems[i,"dtxsid"]
     casrn = chems[i,"casrn"]
     name = chems[i,"name"]
@@ -80,7 +84,8 @@ pfasPartitionCoefficients <- function(species="Human") {
       print(e)
     })
 
-   }
-  file = paste0("../data/PFAS partition data ",species,".xlsx")
+  }
+  chems = rbind(chems,chems1)
+  file = paste0("data/PFAS partition data ",species,".xlsx")
   write.xlsx(chems,file)
 }

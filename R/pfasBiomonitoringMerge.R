@@ -5,10 +5,45 @@
 pfasBiomonitoringMerge <- function() {
   printCurrentFunction()
   cat("read files\n")
-  dir = paste0("../data/")
-  file = paste0(dir,"ACToR biomon data/actor pfas biomonitoring filtered 2023-01-04.xlsx")
-  #dtxsid casrn	name	aid	acid	snaid	acname	desc	qc	matrix	metric	value	units	units_original	result_group	notes
-  mat = read.xlsx(file)
+  dir = paste0("data/")
+  file = paste0(dir,"actor pfas biomonitoring filtered 2023-01-09.xlsx")
+  print(file)
+  mat1 = read.xlsx(file)
+  cat("mat1:",nrow(mat1),"\n")
+  mat1 = mat1[mat1$qc=="pass",]
+  cat("mat1:",nrow(mat1),"\n")
+  mat1 = mat1[mat1$useme>=1,]
+  cat("mat1:",nrow(mat1),"\n")
+  mat1 = mat1[mat1$useme_final>=1,]
+  cat("mat1:",nrow(mat1),"\n")
+  mat = mat1
+
+  file = paste0(dir,"3M final/PFAS_3M data 2023-01-11_Final.xlsx")
+  print(file)
+  mat2 = read.xlsx(file)
+  mat2$useme_final = 1
+  cat("mat2:",nrow(mat2),"\n")
+  mat2 = mat2[,names(mat)]
+  cat("mat2:",nrow(mat2),"\n")
+  mat2 = mat2[mat2$qc=="pass",]
+  cat("mat2:",nrow(mat2),"\n")
+  mat2 = mat2[mat2$useme>=1,]
+  cat("mat2:",nrow(mat2),"\n")
+  mat2 = mat2[mat2$useme_final>=1,]
+  cat("mat2:",nrow(mat2),"\n")
+
+  file = paste0(dir,"all dataset data 2023-01-13.xlsx")
+  print(file)
+  mat3 = read.xlsx(file)
+  cat("mat3:",nrow(mat3),"\n")
+  mat3 = mat3[mat3$qc=="pass",]
+  cat("mat3:",nrow(mat3),"\n")
+  mat3 = mat3[mat3$useme>=1,]
+  cat("mat3:",nrow(mat3),"\n")
+  mat3 = mat3[mat3$useme_final>=1,]
+  cat("mat3:",nrow(mat3),"\n")
+
+  mat = unique(rbind(mat,mat2,mat3))
 
   mat = mat[mat$qc=="pass",]
   mat = mat[mat$useme>=1,]
@@ -16,7 +51,7 @@ pfasBiomonitoringMerge <- function() {
               "cord serum","plasma","serum","whole blood")
   mat = mat[is.element(mat$matrix,mlist),]
   mat = mat[mat$value>0,]
-  snaid.bad = NA #c("ATSDR_PFAS_EA_SpokaneWA_Demogr_AID_1")
+  snaid.bad = NA
   mat = mat[!is.element(mat$snaid,snaid.bad),]
   mlist = c("01th percentile","05th percentile","10th percentile",
             "25th percentile","50th percentile","75th percentile",
@@ -24,18 +59,32 @@ pfasBiomonitoringMerge <- function() {
             "98th percentile","99th percentile",
             "maximum","mean","median","minimum",
             "concentration","LOD","LOQ")
-  mat = mat[is.element(mat$metric,mlist),]
 
+  mat = mat[is.element(mat$metric,mlist),]
+  mat$value = as.numeric(mat$value)
   #ulist = c("ug/L","ng/mL","ng/L","pg/mL","ng/g")
   ulist = c("ng/mL","ng/L","pg/mL")
   mat = mat[is.element(mat$units,ulist),]
 
-  file = paste0(dir,"ACToR biomon data/PFAS Blood assay master list 2023-01-06 FINAL.xlsx")
-  #source	assay_name	location	population	source_name_aid	a_description	assay_id	url	notes
+  file = paste0(dir,"PFAS Blood assay master list 2023-01-11 FINAL.xlsx")
+  print(file)
   assays = read.xlsx(file)
 
+  file = paste0(dir,"PFAS_3M assasys 2021-01-11.xlsx")
+  print(file)
+  assays2 = read.xlsx(file)
+  assays = rbind(assays,assays2)
+
+  cat("check the snaids\n")
+  slist = unique(mat$snaid)
+  slist = slist[!is.element(slist,assays$source_name_aid)]
+  if(length(slist)>0) {
+    print(slist)
+    browser()
+  }
+
   cat("add pop and loc\n")
-  nlist = c("dtxsid","casrn","name","snaid","acname","desc","matrix","metric","value","units")
+  nlist = c("dtxsid","casrn","name","snaid","acname","desc","matrix","metric","value","units","useme")
   mat = unique(mat[,nlist])
   mat$assay_name = NA
   mat$url = NA
@@ -61,22 +110,23 @@ pfasBiomonitoringMerge <- function() {
   cat("fix units\n")
   for(i in 1:nrow(mat)) {
     unit = mat[i,"units"]
-    val = mat[i,"value"]
-    if(unit=="ng/g") val = val*1
-    if(unit=="ug/L") val = val*1
-    if(unit=="ng/L") val = val*0.001
+    val = as.numeric(mat[i,"value"])
+    #if(unit=="ng/g") val = val*1
+    #if(unit=="ug/L") val = val*1
+    #if(unit=="ng/L") val = val*0.001
     if(unit=="pg/mL") val = val*0.001
     if(unit=="ng/mL") val = val
-    mat[i,"value"] = val
+    if(unit=="ug/mL") val = val*1000
+    mat[i,"value"] = as.numeric(val)
     mat[i,"units"] = "ng/mL"
   }
-
 
   cat("add NHANES\n")
   #"dtxsid"         "casrn"          "name"           "snaid"          "acname"         "desc"           "matrix"         "metric"         "value"          "units"
   # "location"       "population"     "value_original" "units_original"
-  file = paste0(dir,"ACToR biomon data/NHANES values.xlsx")
+  file = paste0(dir,"NHANES values.xlsx")
   #row	study_code		source	assay_id	assay_component_id	assay_name	assay_component_name	population	assay_category	value_numerical	units	substance_id	result_group
+  print(file)
   nhanes = read.xlsx(file)
   nlist = c("dtxsid","casrn","name","assay_component_name",
             "population","value_numerical","units","source")
@@ -96,12 +146,14 @@ pfasBiomonitoringMerge <- function() {
   nhanes$desc = "NHANES"
   nhanes$matrix = "serum"
   nhanes$url = "https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/SSPFAS_J.htm"
+  nhanes$useme = 1
   nhanes = nhanes[,names(mat)]
   mat = rbind(mat,nhanes)
 
   cat("add nicknames\n")
   mat$nickname = mat$name
   file = paste0(dir,"PFAS synonyms.xlsx")
+  print(file)
   synonyms = read.xlsx(file)
   rownames(synonyms) = synonyms$dtxsid
   mat$nickname = mat$name
@@ -112,12 +164,11 @@ pfasBiomonitoringMerge <- function() {
       mat[is.element(mat$dtxsid,dtxsid),"nickname"] = nn
     }
   }
-
   nlist = c("dtxsid","casrn","name","nickname",
             "matrix","metric","value","units",
             "source", "location","population",
             "assay_name","snaid","acname","desc","url",
-            "value_original","units_original")
+            "value_original","units_original","useme")
   mat = mat[,nlist]
   mat$exposed = "Unclassified"
   mat$metric_class = NA
@@ -147,6 +198,10 @@ pfasBiomonitoringMerge <- function() {
     mat[i,"metric_class"] = mc
 
   }
+
+  sty = createStyle(halign="center",valign="center",textRotation=90,textDecoration = "bold")
   file = paste0(dir,"PFAS biomonitoring data final.xlsx")
-  write.xlsx(mat,file)
+  write.xlsx(mat,file,firstRow=T,headerStyle=sty)
+  file = paste0(dir,"PFAS biomonitoring assays final.xlsx")
+  write.xlsx(assays,file,firstRow=T,headerStyle=sty)
 }

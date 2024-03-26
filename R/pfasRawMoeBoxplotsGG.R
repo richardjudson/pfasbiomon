@@ -6,10 +6,10 @@
 #--------------------------------------------------------------------------------------
 pfasRawMoeBoxplotsGG <- function(to.file=F) {
   printCurrentFunction()
-  dir = paste0("../data/")
-  file = paste0(dir,"PFAS synonyms.xlsx")
-  synonyms = read.xlsx(file)
-  rownames(synonyms) = synonyms$dtxsid
+  dir = paste0("data/")
+  # file = paste0(dir,"PFAS synonyms.xlsx")
+  # synonyms = read.xlsx(file)
+  # rownames(synonyms) = synonyms$dtxsid
   file = paste0(dir,"PFAS biomonitoring data final.xlsx")
   mat = read.xlsx(file)
   mat[is.element(mat$metric,"LOQ"),"metric"] = "  LOQ"
@@ -43,11 +43,12 @@ pfasRawMoeBoxplotsGG <- function(to.file=F) {
   for(i in 1:length(dlist)) {
     dtxsid = dlist[i]
     minvals[i,"dtxsid"] = dtxsid
-    minvals[i,"name"] = synonyms[dtxsid,"name"]
     temp = mat[is.element(mat$dtxsid,dtxsid),]
     name = temp[1,"name"]
-    nickname = name
-    if(is.element(dtxsid,synonyms$dtxsid)) nickname = synonyms[dtxsid,"nickname"]
+    nickname = temp[1,"nickname"]
+    minvals[i,"name"] = nickname
+    # nickname = name
+    # if(is.element(dtxsid,synonyms$dtxsid)) nickname = synonyms[dtxsid,"nickname"]
     cat(nickname,nrow(temp),"\n")
     minvals[i,"nickname"] = nickname
     if(nrow(temp)>0) {
@@ -57,7 +58,7 @@ pfasRawMoeBoxplotsGG <- function(to.file=F) {
         x = c(x,"")
         y = c(y,1000000)
       }
-      p = ggplot(data=temp,aes(x=metric_class,y=value))  +
+      p = ggplot(data=temp,aes(x=metric_class,y=plasma_conc_ngmL))  +
         ggtitle(nickname) +
         geom_boxplot(outlier.colour="black",
                      outlier.shape=21,outlier.size=2,outlier.fill="white",
@@ -76,7 +77,7 @@ pfasRawMoeBoxplotsGG <- function(to.file=F) {
               plot.margin = margin(t=20,r=20,b=50,l=20),
               legend.text = element_text(size=12),
               legend.title = element_text(size=12)) +
-        geom_jitter(aes(color=exposed),size=1.5,alpha = 0.9)
+        geom_jitter(aes(color=exposed),size=0.5,alpha = 0.9)
 
       if(is.element(dtxsid,ivpod$dtxsid)) {
         temp = ivpod[is.element(ivpod$dtxsid,dtxsid),]
@@ -107,7 +108,7 @@ pfasRawMoeBoxplotsGG <- function(to.file=F) {
       print(p)
 
       if(to.file) {
-        fname <- paste0(dir,"raw moe plots/pfasRawMoeBoxplots ",nickname,".pdf")
+        fname <- paste0(dir,"figures/raw moe plots/pfasRawMoeBoxplots ",nickname,".pdf")
         fname = str_replace_all(fname,":","_")
         ggsave(plot = p, width = 8, height = 4, dpi = 300, filename =fname)
         dev.off()
@@ -115,54 +116,54 @@ pfasRawMoeBoxplotsGG <- function(to.file=F) {
       else browser()
     }
   }
-  cat("build the raw MoE table\n")
-  metric.list = unique(mat$metric)
-  metric.list = metric.list[!is.element(metric.list,c("  LOD","  LOQ"))]
-  minvals = minvals[!is.na(minvals$minpod),]
-  rownames(minvals) = minvals$dtxsid
-  metrics = NULL
-  moes = NULL
-  name.list = c("study","dtxsid","casrn","name","nickname","population","location","source","snaid","matrix","metric","value","units","minpod","moe")
-  row = as.data.frame(matrix(nrow=1,ncol=length(name.list)))
-  names(row) = name.list
-  res = NULL
-  dlist = minvals$dtxsid
-  for(i in 1:length(dlist)) {
-    dtxsid = dlist[i]
-    minval = minvals[dtxsid,"minpod"]
-    temp = mat[is.element(mat$dtxsid,dtxsid),]
-    temp = temp[temp$value>0,]
-    temp = temp[is.element(temp$metric,metric.list),]
-    if(nrow(temp)>0) {
-      for(j in 1:nrow(temp)) {
-        x = temp[j,"metric"]
-        y = temp[j,"value"]
-        moe = minval/y
-        metrics = c(metrics,x)
-        moes = c(moes,moe)
-
-        row[1,"study"] = temp[j,"assay_name"]
-        row[1,"dtxsid"] = temp[j,"dtxsid"]
-        row[1,"casrn"] = temp[j,"casrn"]
-        row[1,"name"] = temp[j,"name"]
-        row[1,"nickname"] = temp[j,"name"]
-        if(is.element(dtxsid,synonyms$dtxsid)) row[1,"nickname"] = synonyms[is.element(synonyms$dtxsid,dtxsid),"nickname"]
-        row[1,"population"] = temp[j,"population"]
-        row[1,"location"] = temp[j,"location"]
-        row[1,"source"] = temp[j,"source"]
-        row[1,"snaid"] = temp[j,"snaid"]
-        row[1,"metric"] = temp[j,"metric"]
-        row[1,"matrix"] = temp[j,"matrix"]
-        row[1,"value"] = temp[j,"value"]
-        row[1,"units"] = temp[j,"units"]
-        row[1,"minpod"] = minval
-        row[1,"moe"] = moe
-        res = rbind(res,row)
-      }
-    }
-  }
-  file = paste0(dir,"PFAS biomonitoring raw moe.xlsx")
-  res = unique(res)
-  write.xlsx(res,file)
+  # cat("build the raw MoE table\n")
+  # metric.list = unique(mat$metric)
+  # metric.list = metric.list[!is.element(metric.list,c("  LOD","  LOQ"))]
+  # minvals = minvals[!is.na(minvals$minpod),]
+  # rownames(minvals) = minvals$dtxsid
+  # metrics = NULL
+  # moes = NULL
+  # name.list = c("study","dtxsid","casrn","name","nickname","population","location","source","snaid","matrix","metric","value","units","minpod","moe")
+  # row = as.data.frame(matrix(nrow=1,ncol=length(name.list)))
+  # names(row) = name.list
+  # res = NULL
+  # dlist = minvals$dtxsid
+  # for(i in 1:length(dlist)) {
+  #   dtxsid = dlist[i]
+  #   minval = minvals[dtxsid,"minpod"]
+  #   temp = mat[is.element(mat$dtxsid,dtxsid),]
+  #   temp = temp[temp$value>0,]
+  #   temp = temp[is.element(temp$metric,metric.list),]
+  #   if(nrow(temp)>0) {
+  #     for(j in 1:nrow(temp)) {
+  #       x = temp[j,"metric"]
+  #       y = temp[j,"value"]
+  #       moe = minval/y
+  #       metrics = c(metrics,x)
+  #       moes = c(moes,moe)
+  #
+  #       row[1,"study"] = temp[j,"assay_name"]
+  #       row[1,"dtxsid"] = temp[j,"dtxsid"]
+  #       row[1,"casrn"] = temp[j,"casrn"]
+  #       row[1,"name"] = temp[j,"name"]
+  #       row[1,"nickname"] = temp[j,"nickname"]
+  #       #if(is.element(dtxsid,synonyms$dtxsid)) row[1,"nickname"] = synonyms[is.element(synonyms$dtxsid,dtxsid),"nickname"]
+  #       row[1,"population"] = temp[j,"population"]
+  #       row[1,"location"] = temp[j,"location"]
+  #       row[1,"source"] = temp[j,"source"]
+  #       row[1,"snaid"] = temp[j,"snaid"]
+  #       row[1,"metric"] = temp[j,"metric"]
+  #       row[1,"matrix"] = temp[j,"matrix"]
+  #       row[1,"value"] = temp[j,"value"]
+  #       row[1,"units"] = temp[j,"units"]
+  #       row[1,"minpod"] = minval
+  #       row[1,"moe"] = moe
+  #       res = rbind(res,row)
+  #     }
+  #   }
+  # }
+  # file = paste0(dir,"PFAS biomonitoring raw moe.xlsx")
+  # res = unique(res)
+  # write.xlsx(res,file)
 }
 
