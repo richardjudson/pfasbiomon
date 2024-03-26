@@ -1,0 +1,375 @@
+\nonstopmode{}
+\documentclass[letterpaper]{book}
+\usepackage[times,inconsolata,hyper]{Rd}
+\usepackage{makeidx}
+\usepackage[utf8]{inputenc} % @SET ENCODING@
+% \usepackage{graphicx} % @USE GRAPHICX@
+\makeindex{}
+\begin{document}
+\chapter*{}
+\begin{center}
+{\textbf{\huge pfasbiomon}}
+\par\bigskip{\large \today}
+\end{center}
+\inputencoding{utf8}
+\ifthenelse{\boolean{Rd@use@hyper}}{\hypersetup{pdftitle = {pfasBiomon: PFAS Biomonitoring and In Vitro PODs to generate Margins of Exposure}}}{}
+\begin{description}
+\raggedright{}
+\item[Type]\AsIs{Package}
+\item[Title]\AsIs{PFAS Biomonitoring and In Vitro PODs to generate Margins of Exposure}
+\item[Version]\AsIs{0.1.0}
+\item[Author]\AsIs{Richard Judson}
+\item[Maintainer]\AsIs{Richard Judson }\email{judson.richard@epa.gov}\AsIs{}
+\item[Description]\AsIs{The package takes data from PFAS biomonitoring studies (blood, plasma)
+and in vitro bioactivity data and calculates margins of exposure (MoEs). This 
+supports the manuscript titled ``A Comparison of In Vitro and In Vivo Points 
+of Departure with Human Biomonitoring Levels for Per- and 
+Polyfluoroalkyl Substances (PFAS)''}
+\item[License]\AsIs{GPL-3}
+\item[Encoding]\AsIs{UTF-8}
+\item[LazyData]\AsIs{true}
+\item[RoxygenNote]\AsIs{7.2.3}
+\end{description}
+\Rdcontents{\R{} topics documented:}
+\inputencoding{utf8}
+\HeaderA{ACToR.parse}{Parse the ACToR files and fill in the remaining missed data}{ACToR.parse}
+%
+\begin{Description}\relax
+Parse the ACToR files and fill in the remaining missed data
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+ACToR.parse(dataset = "PFAS_3M")
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{dir}] The directory where the lists are stored
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{ACToR.parse.fillin}{Parse the ACToR files}{ACToR.parse.fillin}
+%
+\begin{Description}\relax
+Parse the ACToR files
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+ACToR.parse.fillin(
+  datasets = c("Denmark", "Germany", "HealthCanada", "Japan", "Michigan",
+    "Norway_Nordic", "Ohio", "Sweden")
+)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{dir}] The directory where the lists are stored
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{dnt.check}{check the processing for the DNT PODs}{dnt.check}
+%
+\begin{Description}\relax
+check the processing for the DNT PODs
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+dnt.check(to.file = F)
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{driver}{Run all of the analyzes starting with the hand-edited data file}{driver}
+%
+\begin{Description}\relax
+Run all of the analyzes starting with the hand-edited data file
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+driver()
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{extract\_NHANES}{Code to format the NHANES data Note that this will only run under R 4.x}{extract.Rul.NHANES}
+%
+\begin{Description}\relax
+Code to format the NHANES data
+Note that this will only run under R 4.x
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+extract_NHANES(dir = "../data/", dataset = "PFAS_J")
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{dir}] The directory to look for data
+
+\item[\code{dataset}] The name of the NHANES dataset
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfas.for.mdh}{Pull the PFAS data fro MDH}{pfas.for.mdh}
+%
+\begin{Description}\relax
+Pull the PFAS data fro MDH
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfas.for.mdh(to.file = F)
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{pfasBiomonitoringMerge}{Merge the ACToR data with NHANES and put in a common format}{pfasBiomonitoringMerge}
+%
+\begin{Description}\relax
+Merge the ACToR data with NHANES and put in a common format
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasBiomonitoringMerge()
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{pfasBiomonitoringOldNewMergeForFiltering}{Setup the new filtered input file using the latest assays from Doris}{pfasBiomonitoringOldNewMergeForFiltering}
+%
+\begin{Description}\relax
+Setup the new filtered input file using the latest assays from Doris
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasBiomonitoringOldNewMergeForFiltering()
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{pfasBiomonitoringOutliers}{Find outliers}{pfasBiomonitoringOutliers}
+%
+\begin{Description}\relax
+Find outliers
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasBiomonitoringOutliers()
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{pfasBloodLevelxChainLength}{Plotthe blood levels by chain length}{pfasBloodLevelxChainLength}
+%
+\begin{Description}\relax
+Plotthe blood levels by chain length
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasBloodLevelxChainLength(to.file = F)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{to.file}] If TRUE, write graphs to a file
+
+\item[\code{data.version}] Label of folder where input data sits
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfasBloodLevelxChainLengthGG}{Plotthe blood levels by chain length}{pfasBloodLevelxChainLengthGG}
+%
+\begin{Description}\relax
+Plotthe blood levels by chain length
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasBloodLevelxChainLengthGG(to.file = F)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{to.file}] If TRUE, write graphs to a file
+
+\item[\code{data.version}] Label of folder where input data sits
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfasChemicalTable}{Generate a table of the chemicals and the data we have for them}{pfasChemicalTable}
+%
+\begin{Description}\relax
+Generate a table of the chemicals and the data we have for them
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasChemicalTable()
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{pfasCorrrectedMOE}{Calculate the TK-corrected MOE values}{pfasCorrrectedMOE}
+%
+\begin{Description}\relax
+Calculate the TK-corrected MOE values
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasCorrrectedMOE()
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{pfasCorrrectedMOE.noTK}{Calculate the TK-corrected MOE values}{pfasCorrrectedMOE.noTK}
+%
+\begin{Description}\relax
+Calculate the TK-corrected MOE values
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasCorrrectedMOE.noTK()
+\end{verbatim}
+\end{Usage}
+\inputencoding{utf8}
+\HeaderA{pfasHalfLife}{Extract the half-life information from Dawson et al. supplemental file}{pfasHalfLife}
+%
+\begin{Description}\relax
+Extract the half-life information from Dawson et al. supplemental file
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasHalfLife(species = "Human", route = "Oral")
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{species}] The species to use
+
+\item[\code{route}] The exposre route
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfasInVitroVsRat}{Compare the in vitro PODs vs the Rat POD concentration}{pfasInVitroVsRat}
+%
+\begin{Description}\relax
+Compare the in vitro PODs vs the Rat POD concentration
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasInVitroVsRat(to.file = F)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{to.file}] If TRUE, write graphs to a file
+
+\item[\code{data.version}] Label of folder where input data sits
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfasMoeBoxplot}{Plot the distribution of PODs}{pfasMoeBoxplot}
+%
+\begin{Description}\relax
+Plot the distribution of PODs
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasMoeBoxplot(to.file = F)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{dir}] The directory where the lists are stored
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfasPartitionCoefficients}{Get the partition coefficients}{pfasPartitionCoefficients}
+%
+\begin{Description}\relax
+Get the partition coefficients
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasPartitionCoefficients(species = "Human")
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{to.file}] If TRUE, write graphs to a file
+
+\item[\code{data.version}] Label of folder where input data sits
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfasPerChemicalMoeBoxplot}{Build the raw MoE Boxplots}{pfasPerChemicalMoeBoxplot}
+%
+\begin{Description}\relax
+Build the raw MoE Boxplots
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasPerChemicalMoeBoxplot(to.file = F)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{to.file}] If TRUE, write graphs to a file
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{pfasRawMoeBoxplotsGG}{Build the raw MoE Boxplots}{pfasRawMoeBoxplotsGG}
+%
+\begin{Description}\relax
+Build the raw MoE Boxplots
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+pfasRawMoeBoxplotsGG(to.file = F)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{to.file}] If TRUE, write graphs to a file
+\end{ldescription}
+\end{Arguments}
+\inputencoding{utf8}
+\HeaderA{printCurrentFunction}{Print the name of the current function}{printCurrentFunction}
+%
+\begin{Description}\relax
+Print the name of the current function
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+printCurrentFunction(comment.string = NA)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{comment.string}] An optinal string to be printed
+\end{ldescription}
+\end{Arguments}
+\printindex{}
+\end{document}

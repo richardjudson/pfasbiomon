@@ -1,0 +1,4112 @@
+SOURCE_NAME_AID	Ohio_TACs_2006_AID_1
+DATA_COLLECTION	Ohio TACs 2006
+ASSAY_NAME	Ohio List of Toxic Air Contaminants (TACs)12/1/06
+ASSAY_DESCRIPTION	Ohio List of Toxic Air Contaminants (TACs) Effective 12/1/06
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_NOTE	Effective 12/1/06; superceded; on a 5-year review schedule
+ASSAY_URL	http://codes.ohio.gov/oac/3745-114
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Ohio Administrative Code
+ASSAY_COMP_DESC	Ohio Administrative Code section for TACs
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_TACs_2015_AID_1
+DATA_COLLECTION	Ohio TACs 2015
+ASSAY_NAME	Ohio List of Toxic Air Contaminants (TACs) 2/12/2015
+ASSAY_DESCRIPTION	Ohio List of Toxic Air Contaminants (TACs) Effective 2/12/2015
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_NOTE	Effective 2/12/2015; on a 5-year review schedule; Five Year Review (FYR) Dates: 11/28/2014 and 02/12/2020
+ASSAY_NOTE	Statutory Authority: 3704.03(F)
+ASSAY_URL	http://codes.ohio.gov/oac/3745-114
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Ohio Administrative Code
+ASSAY_COMP_DESC	Ohio Administrative Code section for TACs
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Water_MCLs_2010_AID_1
+DATA_COLLECTION	Ohio Water MCLs 2010
+ASSAY_NAME	Ohio EPA Maximum contaminant levels and best available technologies for organic contaminants in drinking water (2010)
+ASSAY_DESCRIPTION	Ohio EPA Maximum contaminant levels and best available technologies for organic contaminants in drinking water (issued 2010)
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_CATEGORY	Data Level; Secondary
+ASSAY_CATEGORY	Capture Level; Tabular
+ASSAY_URL	NA
+ASSAY_NOTE	have been superceded; originally accessed at: http://codes.ohio.gov/oac/3745-81-12
+ASSAY_NOTE	Effective 2010
+ASSAY_NOTE	radionuclides not included
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Applicable Rule
+ASSAY_COMP_DESC	Applicable Rule
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	MCL Applicability
+ASSAY_COMP_DESC	MCL Applicability
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_NOTE	Under 3745-81-12 Maximum contaminant levels and best available technologies for organic contaminants of Ohio Code
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Maximum residual disinfectant levels (MRDL) for disinfectants
+ASSAY_COMP_DESC	Maximum residual disinfectant levels (MRDL) for disinfectants
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Ohio Maximum contaminant levels (MCLs) for drinking water
+ASSAY_COMP_DESC	Ohio Maximum contaminant levels (MCLs) for drinking water
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Best Available Technology (BAT). GAC = granular activated carbon; PTA = packed-tower aeration; OX = oxidation with chlorine or ozone
+ASSAY_COMP_DESC
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_NOTE	GAC = granular activated carbon
+ASSAY_NOTE	PTA = packed-tower aeration
+ASSAY_NOTE	OX = oxidation with chlorine or ozone
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Comments
+ASSAY_COMP_DESC	Comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_Water_MCLs_2016_AID_1
+DATA_COLLECTION	Ohio Water MCLs 2016
+ASSAY_NAME	Ohio EPA Maximum contaminant levels and best available technologies for organic contaminants in drinking water (2016)
+ASSAY_DESCRIPTION	Ohio EPA Maximum contaminant levels and best available technologies for organic contaminants in drinking water (issued 2016)
+ASSAY_NOTE	Ohio Administrative Code 3745-81-12 Maximum contaminant levels and best available technologies for organic contaminants.
+ASSAY_URL	http://codes.ohio.gov/oac/3745-81-12
+ASSAY_NOTE	Effective: 4/1/2016
+ASSAY_NOTE	Five Year Review (FYR) Dates: 01/15/2016 and 04/01/2021
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Ohio Maximum contaminant levels (MCLs) for drinking water
+ASSAY_COMP_DESC	Ohio Maximum contaminant levels (MCLs) for drinking water
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Best Available Technology (BAT). GAC = granular activated carbon; PTA = packed-tower aeration; OX = oxidation with chlorine or ozone
+ASSAY_COMP_DESC
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_NOTE	GAC = granular activated carbon
+ASSAY_NOTE	PTA = packed-tower aeration
+ASSAY_NOTE	OX = oxidation with chlorine or ozone
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Applicability
+ASSAY_COMP_DESC	Applicability
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_PPCP_Miami_Basin_AID_1
+DATA_COLLECTION	Ohio PPCP Miami Basin
+ASSAY_NAME	Ohio MCD survey of PPCPs in Miami River Basin
+ASSAY_DESCRIPTION	(Ohio) Miami Conservancy District (MCD) survey of pharmaceutical and personal care product (PPCP) compounds in waters of the Great Miami River Basin
+ASSAY_URL	http://www.miamiconservancy.org/water/documents/ppcps%20in%20gmr%20basin%202011.pdf
+ASSAY_NOTE	survey conducted in the fall of 2010, with samples collected in October�November 2010 and April�May 2011.
+ASSAY_NOTE	MCD collected water samples at three WWTP effluent sites, twenty stream or river sites, seven monitoring wells, and three municipal production wells
+ASSAY_NOTE	The compounds estradiol, estrone, 17 alphaethinyl estradiol, and progesterone were not detected in any of the samples collected in this survey
+ASSAY_NOTE	Report issued by The Miami Conservancy District December 31, 2011
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Fall 2010 Maximum
+ASSAY_COMP_DESC	Fall 2010 Maximum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Fall 2010 Minimum
+ASSAY_COMP_DESC	Fall 2010 Minimum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Fall 2010 Median
+ASSAY_COMP_DESC	Fall 2010 Median concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Fall 2010 Mean
+ASSAY_COMP_DESC	Fall 2010 Mean concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Fall 2010 MRL
+ASSAY_COMP_DESC	Fall 2010 minimum reporting level (MRL)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Fall 2010 # detections
+ASSAY_COMP_DESC	Fall 2010 number of detections
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Spring 2011 Maximum
+ASSAY_COMP_DESC	Spring 2011 Maximum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Spring 2011 Minimum
+ASSAY_COMP_DESC	Spring 2011 Minimum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Spring 2011 Median
+ASSAY_COMP_DESC	Spring 2011 Median concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Spring 2011 Mean
+ASSAY_COMP_DESC	Spring 2011 Mean concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Spring 2011 MRL
+ASSAY_COMP_DESC	Spring 2011 minimum reporting level (MRL)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	Spring 2011 # detections
+ASSAY_COMP_DESC	Spring 2011 number of detections
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+End
+SOURCE_NAME_AID	Ohio_Restricted_Pesticides_2014_AID_1
+DATA_COLLECTION	Ohio Restricted Pesticides 2014
+ASSAY_NAME	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2014)
+ASSAY_DESCRIPTION	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2014)
+ASSAY_NOTE	issued 12/23/2014; registered through 6/30/2015; 481 products
+ASSAY_URL	http://www.agri.ohio.gov/apps/Restricted_Products_Rpt/default.aspx
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	EPA_Number
+ASSAY_COMP_DESC	EPA Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Private
+ASSAY_COMP_DESC	Private Application Categories; see http://pested.osu.edu/privatestudy.html
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Commercial
+ASSAY_COMP_DESC	Commercial Application Caategories; see http://www.agri.ohio.gov/apps/odaprs/pest_studymat/pest_study.aspx
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Restricted_Pesticides_2015_AID_1
+DATA_COLLECTION	Ohio Restricted Pesticides 2015
+ASSAY_NAME	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2015)
+ASSAY_DESCRIPTION	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2015)
+ASSAY_NOTE	current as of November 2015; registered through 6/30/2016; 498 products
+ASSAY_NOTE	Listed by product name; however, all active ingredients are included in substance list for this collection
+ASSAY_NOTE	now superceded
+ASSAY_URL	http://www.agri.ohio.gov/apps/Restricted_Products_Rpt/default.aspx
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Active Ingredients
+ASSAY_COMP_DESC	Active Ingredients
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	EPA_Number
+ASSAY_COMP_DESC	EPA Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Private
+ASSAY_COMP_DESC	Private Application Categories; see http://pested.osu.edu/privatestudy.html
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Commercial
+ASSAY_COMP_DESC	Commercial Application Caategories; see http://www.agri.ohio.gov/apps/odaprs/pest_studymat/pest_study.aspx
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Restricted_Pesticides_2016_AID_1
+DATA_COLLECTION	Ohio Restricted Pesticides 2016
+ASSAY_NAME	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2016)
+ASSAY_DESCRIPTION	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2016)
+ASSAY_NOTE	current as of 12/09/2016; registered through 6/30/2017; approx. 500 products
+ASSAY_NOTE	Listed by product name
+ASSAY_URL	http://www.agri.ohio.gov/apps/Restricted_Products_Rpt/default.aspx
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Active Ingredients
+ASSAY_COMP_DESC	Active Ingredient(s)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	EPA_Number
+ASSAY_COMP_DESC	EPA Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Private
+ASSAY_COMP_DESC	Private Application Categories; see http://pested.osu.edu/privatestudy.html
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Commercial
+ASSAY_COMP_DESC	Commercial Application Caategories; see http://www.agri.ohio.gov/apps/odaprs/pest_studymat/pest_study.aspx
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Restricted_Pesticides_2019_AID_1
+DATA_COLLECTION	Ohio Restricted Pesticides 2019
+ASSAY_NAME	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2019)
+ASSAY_DESCRIPTION	Ohio Dept.of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2019)
+ASSAY_NOTE	current as of 11/25/2019; Registered Thru: 6/30/2020; approx. 500 products
+ASSAY_NOTE	After EPA has registered a product, it must also be registered in Ohio before it is legal to sell and use.
+ASSAY_URL	https://agri.ohio.gov/wps/portal/gov/oda/divisions/plant-health/pesticides/rup-list
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Active Ingredients
+ASSAY_COMP_DESC	Active Ingredient(s) as published
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	EPA_Number
+ASSAY_COMP_DESC	EPA Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Private
+ASSAY_COMP_DESC	Private Application Categories; see http://pested.osu.edu/privatestudy.html
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Commercial
+ASSAY_COMP_DESC	Commercial Application Caategories; see http://www.agri.ohio.gov/apps/odaprs/pest_studymat/pest_study.aspx
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Restricted_Pesticides_2021_AID_1
+DATA_COLLECTION	Ohio Restricted Pesticides 2021
+ASSAY_NAME	Ohio Dept. of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2021)
+ASSAY_DESCRIPTION	Ohio Dept. of Agriculture Restricted Use Chemicals (Pesticides) by Product Name (2021)
+ASSAY_NOTE	updated November 8, 2021; Registered Thru:  6/30/2022; approx. 500 products
+ASSAY_NOTE	After EPA has registered a product, it must also be registered in Ohio before it is legal to sell and use.
+ASSAY_URL	https://agri.ohio.gov/wps/portal/gov/oda/divisions/plant-health/pesticides/rup-list
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Active Ingredients
+ASSAY_COMP_DESC	Active Ingredient(s) as published
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	EPA_Number
+ASSAY_COMP_DESC	EPA Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Private
+ASSAY_COMP_DESC	Private Application Categories; see http://pested.osu.edu/privatestudy.html
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Commercial
+ASSAY_COMP_DESC	Commercial Application Caategories; see http://www.agri.ohio.gov/apps/odaprs/pest_studymat/pest_study.aspx
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_DW_Secondary_AID_1
+DATA_COLLECTION	Ohio DW Secondary
+ASSAY_NAME	Ohio EPA secondary Maximum contaminant levels drinking water
+ASSAY_DESCRIPTION	Ohio EPA The secondary maximum contaminant levels (MCL) for public water systems
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	http://epa.ohio.gov/portals/28/documents/rules/Final/3745-82-02_effective_09_13_93.txt
+ASSAY_NOTE	Effective 1993
+ASSAY_NOTE	Promulgated under: RC Chapter 119
+ASSAY_NOTE	Chapter 3745-82-02 (13 September 1993) Secondary maximum contaminant levels.
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Ohio Secondary Maximum contaminant levels (MCLs) for drinking water
+ASSAY_COMP_DESC	Ohio Secondary Maximum contaminant levels (MCLs) for drinking water
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Comments
+ASSAY_COMP_DESC	Comments for specific substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_WQC_2010_AID_1
+DATA_COLLECTION	Ohio WQC 2010
+ASSAY_NAME	water quality criteria (WQC) which apply to all surface waters of the state of Ohio (2010)
+ASSAY_DESCRIPTION	water quality criteria (WQC) which apply to all surface waters of the state of Ohio (2010)
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	NA
+ASSAY_NOTE	Now superceded in 2017 re-organization of OAC Chapter 3745-1
+ASSAY_NOTE	Ohio Administrative Code OAC Chapter 3745-1 Water Quality Standards
+ASSAY_NOTE	originally accessed at: http://www.epa.state.oh.us/portals/35/rules/01-04.pdf
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Criterion Type
+ASSAY_COMP_DESC	Criterion Type
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	IMZM
+ASSAY_COMP_DESC	IMZM = inside mixing zone maximum
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	OMZM = outside mixing zone maximum
+ASSAY_COMP_DESC	OMZM = outside mixing zone maximum
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Drinking water criteria
+ASSAY_COMP_DESC	Drinking water criteria
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Comments
+ASSAY_COMP_DESC	Footnotes for specific substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_Pesticides_SLN_2014_AID_1
+DATA_COLLECTION	Ohio Pesticides SLN 2014
+ASSAY_NAME	Ohio Special Local Need Pesticide Registrations Under FIFRA 24(c) 2014
+ASSAY_DESCRIPTION	Ohio Special Local Need (SLN) Pesticide Registrations Under FIFRA 24(c) 2014
+ASSAY_NOTE	Section 24(c) of FIFRA, the federal pesticide law, specifies that a state may provide registration for additional uses of federally registered pesticides for distribution and use within the state to meet a special local need
+ASSAY_NOTE	Special local need means an existing or imminent pest problem within a State for which the State lead agency, based upon satisfactory supporting information, has determined that an appropriate federally registered pesticide product is not sufficiently available.
+ASSAY_NOTE	Maintained by Ohio State University
+ASSAY_URL	http://pested.osu.edu/24C.html
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	SLN Number
+ASSAY_COMP_DESC	SLN Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name (registrant)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Uses
+ASSAY_COMP_DESC	(registered) Uses
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Pesticides_SLN_2016_AID_1
+DATA_COLLECTION	Ohio Pesticides SLN 2016
+ASSAY_NAME	Ohio Special Local Need Pesticide Registrations Under FIFRA 24(c) 2016
+ASSAY_DESCRIPTION	Ohio Special Local Need (SLN) Pesticide Registrations Under FIFRA 24(c) 2016
+ASSAY_NOTE	Section 24(c) of FIFRA, the federal pesticide law, specifies that a state may provide registration for additional uses of federally registered pesticides for distribution and use within the state to meet a special local need
+ASSAY_NOTE	Special local need means an existing or imminent pest problem within a State for which the State lead agency, based upon satisfactory supporting information, has determined that an appropriate federally registered pesticide product is not sufficiently available.
+ASSAY_NOTE	Maintained by Ohio State University
+ASSAY_URL	http://pested.osu.edu/24c
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	SLN Number
+ASSAY_COMP_DESC	SLN Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name (registrant)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Uses
+ASSAY_COMP_DESC	(registered) Uses
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Pesticides_SLN_2017_AID_1
+DATA_COLLECTION	Ohio Pesticides SLN 2017
+ASSAY_NAME	Ohio Special Local Need Pesticide Registrations Under FIFRA 24(c) 2017
+ASSAY_DESCRIPTION	Ohio Special Local Need (SLN) Pesticide Registrations Under FIFRA 24(c) 2017
+ASSAY_NOTE	Section 24(c) of FIFRA, the federal pesticide law, specifies that a state may provide registration for additional uses of federally registered pesticides for distribution and use within the state to meet a special local need
+ASSAY_NOTE	Special local need means an existing or imminent pest problem within a State for which the State lead agency, based upon satisfactory supporting information, has determined that an appropriate federally registered pesticide product is not sufficiently available.
+ASSAY_NOTE	Maintained by Ohio State University
+ASSAY_URL	http://pested.osu.edu/24c
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	SLN Number
+ASSAY_COMP_DESC	SLN Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name (registrant)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Uses
+ASSAY_COMP_DESC	(registered) Uses
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Pesticides_SLN_2022_AID_1
+DATA_COLLECTION	Ohio Pesticides SLN 2022
+ASSAY_NAME	Ohio Special Local Need Pesticide Registrations Under FIFRA 24(c) 2022
+ASSAY_DESCRIPTION	Ohio Special Local Need (SLN) Pesticide Registrations Under FIFRA 24(c) 2022
+ASSAY_NOTE	Section 24(c) of FIFRA, the federal pesticide law, specifies that a state may provide registration for additional uses of federally registered pesticides for distribution and use within the state to meet a special local need
+ASSAY_NOTE	Special local need means an existing or imminent pest problem within a State for which the State lead agency, based upon satisfactory supporting information, has determined that an appropriate federally registered pesticide product is not sufficiently available.
+ASSAY_NOTE	Maintained by Ohio State University
+ASSAY_URL	https://pested.osu.edu/quicklinks/pesticidelabelresources/24c
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	SLN Number
+ASSAY_COMP_DESC	Ohio SLN Registration Number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Product_name
+ASSAY_COMP_DESC	Pesticide Product name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Registration
+ASSAY_COMP_DESC	EPA Registration number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Company_Name
+ASSAY_COMP_DESC	Company Name (registrant)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Uses
+ASSAY_COMP_DESC	(registered) Uses/ expiration date
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_School_Study_2000_AID_1
+DATA_COLLECTION	Ohio School Study 2000
+ASSAY_NAME	VOC measurements at 3 schools in Ohio 1999-2000
+ASSAY_DESCRIPTION	Air Quality and Pediatric Health in Ohio, VOC measurements at 3 schools from September 1999 to May 28, 2000
+ASSAY_URL	http://www.epa.ohio.gov/dapc/atu/atu/aqpho.aspx
+ASSAY_NOTE	Study = Air Quality and Pediatric Health in Ohio
+ASSAY_NOTE	Environmental measurements of VOC levels were made during the school year from September 1999 to May 28, 2000
+ASSAY_NOTE	data were collected from monitoring sites at elementary schools in Columbus, New Albany, and Athens Ohio
+ASSAY_NOTE	Indoor, outdoor, and personal concentrations of 45 volatile organic compounds were assessed; the 13 reported here allow comparison with other studies
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Average personal exposure
+ASSAY_COMP_DESC	Average personal exposure (n = 180 for all 3 schools combined)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/m3
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Standard Deviation, personal exposure
+ASSAY_COMP_DESC	Standard Deviation; personal exposure (n = 180 for all 3 schools combined)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Indoor average ambient concentration
+ASSAY_COMP_DESC	Indoor average ambient concentration (n = 549 for all 3 schools combined)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/m3
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Standard Deviation, Indoor ambient concentration
+ASSAY_COMP_DESC	Standard Deviation, Indoor ambient concentration (n = 549 for all 3 schools combined)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Outdoor average ambient concentration
+ASSAY_COMP_DESC	Outdoor average ambient concentration (n = 693 for all schools combined)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/m3
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Standard Deviation, Outdoor ambient concentration
+ASSAY_COMP_DESC	Standard Deviation, Outdoor ambient concentration (n = 693 for all schools combined)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD, Limit of Detection
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/m3
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	notes
+ASSAY_COMP_DESC	notes for specific substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Baseline_VOCs_2013_AID_1
+DATA_COLLECTION	Ohio Baseline VOCs 2013
+ASSAY_NAME	Ohio EPA Baseline VOC assessment, Muskingum County 2013
+ASSAY_DESCRIPTION	Ohio EPA Hydraulic Fracturing Well Preliminary Air Monitoring Assessment (VOCs) � Muskingum County 2013
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_NOTE	Ohio EPA Report: Hydraulic Fracturing Well Preliminary Air Monitoring Assessment � Muskingum County; Division of Air Pollution Control, February 2014
+ASSAY_NOTE	Summary of Canister Sampling VOC data, only detected compounds reported
+ASSAY_NOTE	Ohio EPA DAPC is conducting a preliminary air monitoring assessment of an operating hydraulic fracturing well in Muskingum County
+ASSAY_URL	http://www.epa.ohio.gov/Portals/27/ams/HydraulicFracturingWellAirMonitoringAssessment_%202013DataUpdateFeb2014.pdf
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Minimum Concentration
+ASSAY_COMP_DESC	Minimum Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Concentration ppbv
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Average Concentration
+ASSAY_COMP_DESC	Average Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Concentration ppbv
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Maximum Concentration
+ASSAY_COMP_DESC	Maximum Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Concentration ppbv
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Frequency
+ASSAY_COMP_DESC	Frequency of Detection
+ASSAY_COMP_VALUE_TYPE	INTEGER
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_WQC_AqLife_2017_AID_1
+DATA_COLLECTION	Ohio WQC AqLife 2017
+ASSAY_NAME	water quality criteria (WQC) for protection of aquatic life for all surface waters of the state of Ohio
+ASSAY_DESCRIPTION	Ohio EPA water quality criteria (WQC) for protection of aquatic life which apply to all surface waters of the state of Ohio
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	http://www.epa.state.oh.us/portals/35/rules/01-35.pdf
+ASSAY_NOTE	Ohio Administrative Code OAC Chapter 3745-1 Water Quality Standards
+ASSAY_NOTE	As of February 6, 2017, the OAC Chapter 3745-1 Water Quality Standards have been reorganized.
+ASSAY_NOTE	3745-1-35 Aquatic life and wildlife criteria. Wildlife criteria and some pH, temperature dependent substances are not included here
+ASSAY_NOTE	effective: 02/06/2017; Five Year Review (FYR) Dates: 02/06/2022
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Habitat type
+ASSAY_COMP_DESC	Habitat Type: WWH = Warmwater habitat; CWH = Coldwater habitat; EWH = Exceptional warmwater habitat; SSH = seasonal salmonid habitat
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	IMZM
+ASSAY_COMP_DESC	IMZM = inside mixing zone maximum
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	OMZM = outside mixing zone maximum
+ASSAY_COMP_DESC	OMZM = outside mixing zone maximum
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for specific substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for Criteria
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_WQC_AqLife_2021_AID_1
+DATA_COLLECTION	Ohio WQC AqLife 2021
+ASSAY_NAME	Ohio Surface water quality criteria (WQC) for protection of aquatic life 2021
+ASSAY_DESCRIPTION	Ohio EPA surface water quality criteria (WQC) for protection of aquatic life (2021)
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	https://www.epa.gov/sites/default/files/2015-09/documents/oh_34751_1_to_40.pdf?VersionId=CXrWagJ8C0FwRAaAYzKIVyCiU8llazv7
+ASSAY_NOTE	Ohio Administrative Code OAC Chapter 3745-1 Water Quality Standards
+ASSAY_NOTE	As of February 6, 2017, the OAC Chapter 3745-1 Water Quality Standards have been reorganized.
+ASSAY_NOTE	Table 35-1. Statewide water quality criteria for the protection of aquatic life.
+ASSAY_NOTE	effective: June 11, 2021
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Chemical Name
+ASSAY_COMP_DESC	Chemical name, including comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	special habitat
+ASSAY_COMP_DESC	special habitat considerations
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Habitat type
+ASSAY_COMP_DESC	Habitat Type: WWH = Warmwater habitat; CWH = Coldwater habitat; EWH = Exceptional warmwater habitat; SSH = seasonal salmonid habitat
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	IMZM
+ASSAY_COMP_DESC	IMZM = inside mixing zone maximum
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	OMZM = outside mixing zone maximum
+ASSAY_COMP_DESC	OMZM = outside mixing zone maximum
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for Criteria
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for specific substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_WQC_HH_2017_AID_1
+DATA_COLLECTION	Ohio WQC HH 2017
+ASSAY_NAME	water quality criteria (WQC) for protection of human health for all surface waters of the state of Ohio
+ASSAY_DESCRIPTION	Ohio EPA water quality criteria (WQC) for protection of human health which apply to all surface waters of the state of Ohio
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	http://www.epa.state.oh.us/portals/35/rules/01-34.pdf
+ASSAY_NOTE	Ohio Administrative Code OAC Chapter 3745-1 Water Quality Standards
+ASSAY_NOTE	As of February 6, 2017, the OAC Chapter 3745-1 Water Quality Standards have been reorganized.
+ASSAY_NOTE	3745-1-34 Water quality criteria for the protection of human health [fish consumption]
+ASSAY_NOTE	effective: 02/06/2017; Five Year Review (FYR) Dates: 02/06/2022
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Ohio River.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Lake Erie.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for specific substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_WQC_HH_2021_AID_1
+DATA_COLLECTION	Ohio WQC HH 2021
+ASSAY_NAME	water quality criteria (WQC) for protection of human health for Ohio surface waters
+ASSAY_DESCRIPTION	Ohio EPA water quality criteria (WQC) for protection of human health for all surface waters Ohio (2021)
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	https://codes.ohio.gov/ohio-administrative-code/rule-3745-1-34
+ASSAY_NOTE	Ohio Administrative Code OAC Chapter 3745-1 Water Quality Standards; Rule 3745-1-34  Water quality criteria for the protection of human health [fish consumption].
+ASSAY_NOTE	As of February 6, 2017, the OAC Chapter 3745-1 Water Quality Standards have been reorganized.
+ASSAY_NOTE	3745-1-34 Water quality criteria for the protection of human health [fish consumption]
+ASSAY_NOTE	effective: January 18, 2021; Five Year Review (FYR) Dates: 1/18/2026
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance name, as published
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Ohio River.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Lake Erie.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for specific substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_WQC_PWS_2017_AID_1
+DATA_COLLECTION	Ohio WQC PWS 2017
+ASSAY_NAME	water quality criteria (WQC) for protection of human health public water supply of the state of Ohio
+ASSAY_DESCRIPTION	Ohio EPA water quality criteria (WQC) for protection of human health [public water supply] and Agricultural water supply
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	http://www.epa.state.oh.us/portals/35/rules/01-33.pdf
+ASSAY_NOTE	Ohio Administrative Code OAC Chapter 3745-1 Water Quality Standards
+ASSAY_NOTE	As of February 6, 2017, the OAC Chapter 3745-1 Water Quality Standards have been reorganized.
+ASSAY_NOTE	3745-1-33 Water quality criteria for water supply use designations. (A) Human health water quality criteria [public water supply] & (B) Agricultural water supply criteria
+ASSAY_NOTE	effective: 02/06/2017; Five Year Review (FYR) Dates: 02/06/2022
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable; for the protection of human health in PWS.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units; for the protection of human health in PWS
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Ohio River. [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Lake Erie. [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for Criteria [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for specific substances [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable; [criteria for the protection of agricultural uses].
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units; [criteria for the protection of agricultural uses]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, [criteria for the protection of agricultural uses]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_WQC_PWS_2021_AID_1
+DATA_COLLECTION	Ohio WQC PWS 2021
+ASSAY_NAME	Ohio Human health water quality criteria [public water supply-PWS] 2021
+ASSAY_DESCRIPTION	Ohio EPA human health water quality criteria (WQC) for public water supply (PWS) (2021)
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	https://codes.ohio.gov/ohio-administrative-code/rule-3745-1-33
+ASSAY_NOTE	Ohio Administrative Code OAC Chapter 3745-1 Water Quality Standards
+ASSAY_NOTE	As of February 6, 2017, the OAC Chapter 3745-1 Water Quality Standards were reorganized.
+ASSAY_NOTE	3745-1-33 Water quality criteria for water supply use designations. (A) Human health water quality criteria [public water supply]; does not include (B) Agricultural water supply criteria
+ASSAY_NOTE	effective: January 18, 2021; Five Year Review (FYR) Dates:1/18/2026
+ASSAY_NOTE	On April 27, 2021, EPA disapproved revisions that added 44 new or revised public water supply criteria to Table 33-1 in OAC 3745-1-33 that apply within the Lake Erie Basin. Therefore, the criteria listed under the “Lake Erie” column of Table 33-1 in OAC 3745-1-33
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance name, as published
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Form
+ASSAY_COMP_DESC	Form; D = dissolved; R = total residual; T = total; TR = total recoverable; for the protection of human health in PWS.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units; for the protection of human health in PWS
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Ohio River. [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	OMZA = outside mixing zone average.
+ASSAY_COMP_DESC	OMZA = outside mixing zone average, Lake Erie. [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for specific substances [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Footnotes for Criteria [for the protection of human health in PWS]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_EPA_CIDARS_VAP_ToxVal_2019_AID_1
+DATA_COLLECTION	Ohio EPA CIDARS VAP ToxVal 2019
+ASSAY_NAME	Ohio EPA Toxicity Values for Risk Assessment 2019
+ASSAY_DESCRIPTION	Ohio EPA Toxicity Values for use in Risk Assessment under the Voluntary Action Program (VAP) 2019
+ASSAY_NOTE	Ohio Environmental Protection Agency
+ASSAY_URL	https://epa.ohio.gov/derr/rules/guidance.aspx#119153115-risk-assessment
+ASSAY_NOTE	data from OHIO EPA - VOLUNTARY ACTION PROGRAM CHEMICAL INFORMATION DATABASE AND APPLICABLE REGULATORY STANDARDS (CIDARS)
+ASSAY_NOTE	Remediation under the Voluntary Action Program (VAP) may be done following specific standards developed by Ohio EPA.
+ASSAY_NOTE	intended to be used with appropriate risk assessment guidance
+ASSAY_NOTE	This version of CIDARS accompanies the VAP rules effective on October 17, 2019
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Special Category
+ASSAY_COMP_DESC	Special Category, if applicable
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes for Substance
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	SF
+ASSAY_COMP_DESC	Carcinogenic slope factor
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	(mg/kg-day)-1
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	SF Key
+ASSAY_COMP_DESC	Notes/Sources for Carcinogenic slope factor oral
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	SF Key
+ASSAY_COMP_DESC	Notes/Sources for Carcinogenic slope factor oral - full explanation
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	IUR
+ASSAY_COMP_DESC	Inhalation Unit Risk (Chronic Toxicity)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	(ug/m3)-1
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	IUR Key
+ASSAY_COMP_DESC	Source for IUR (Inhalation Unit Risk) - key
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	IUR Key
+ASSAY_COMP_DESC	Source for IUR (Inhalation Unit Risk) - full name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	RfD
+ASSAY_COMP_DESC	Reference dose (RfD) (Chronic Toxicity)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/kg-day
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	RfD Key
+ASSAY_COMP_DESC	Source for Reference dose oral - key
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	RfD Key
+ASSAY_COMP_DESC	Source for Reference dose oral - full name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	RfC
+ASSAY_COMP_DESC	Reference concentration (RfC) (Chronic Toxicity)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/m3
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	RfC Key
+ASSAY_COMP_DESC	Notes/Sources for Reference Concentration - key
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	RfC Key
+ASSAY_COMP_DESC	Notes/Sources for Reference Concentration - full name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	RfD
+ASSAY_COMP_DESC	Subchronic Reference dose (RfD)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/kg-day
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	RfD Key
+ASSAY_COMP_DESC	Source for Reference dose - key
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	RfD Key
+ASSAY_COMP_DESC	Source for Reference dose - full name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	RfC
+ASSAY_COMP_DESC	Subchronic Reference concentration (RfC)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/m3
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	RfC Key
+ASSAY_COMP_DESC	Notes/Sources for Reference Concentration - key
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	RfC Key
+ASSAY_COMP_DESC	Notes/Sources for Reference Concentration - full name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	VOC
+ASSAY_COMP_DESC	V = Volitile Organic Compoundl NV = Not Volatile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	TO15
+ASSAY_COMP_DESC
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	Mutagen
+ASSAY_COMP_DESC	M = Mutagen
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	RAGS Part E GIABS
+ASSAY_COMP_DESC	Risk Assessment Guidance for Superfund; Gastrointestinal absorption; Fraction of contaminant absorbed in gastrointestinal tract (unitless)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	RAGS Part E ABS
+ASSAY_COMP_DESC	Risk Assessment Guidance for Superfund; Fraction of contaminant absorbed dermally from soil (unitless)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	per cent
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	Csat
+ASSAY_COMP_DESC	Soil Saturation Limit (Csat)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	mg/Kg
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	Comments
+ASSAY_COMP_DESC	special comments for substance
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	CASRN
+ASSAY_COMP_DESC	Original CAS number or identifier, as published by EPA
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_HOME_Study_Biomonitoring_2018_AID_1
+DATA_COLLECTION	Ohio HOME Study Biomonitoring 2018
+ASSAY_NAME	Ohio HOME Study Biomonitoring of pregnant women
+ASSAY_DESCRIPTION	Ohio Health Outcomes and Measures of the Environment (HOME) Study monitoring of pregnant women
+ASSAY_NOTE	Source document: Profiles and Predictors of Environmental Chemical Mixture Exposure among Pregnant Women: The Health Outcomes and Measures of the Environment Study; Environ. Sci. Technol. 2018, 52, 17, 10104–10113
+ASSAY_URL	https://pubs.acs.org/doi/10.1021/acs.est.8b02946
+ASSAY_NOTE	Data from Table 1. Univariate Characteristics of Urinary, Blood, or Serum Chemical Concentrations among Pregnant Women from the HOME Studya
+ASSAY_NOTE	Data from Table S1. Characteristics of urinary or serum chemical concentrations among pregnant women from the HOME Study
+ASSAY_NOTE	We used data from the Health Outcomes and Measures of the Environment (HOME) Study, a prospective pregnancy and birth cohort in the United States.
+ASSAY_NOTE	Recruited pregnant women from Cincinnati, Ohio area
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Substance
+ASSAY_COMP_DESC	Substance, including notes, as published
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes for Substance
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Chemical Class
+ASSAY_COMP_DESC	Chemical Class
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Matrix
+ASSAY_COMP_DESC	matrix
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N, number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Geometric Mean
+ASSAY_COMP_DESC	Geometric Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	25th, 75th Percentile
+ASSAY_COMP_DESC	25th, 75th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Sample Type
+ASSAY_COMP_DESC	Sample Type
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	% <LOD
+ASSAY_COMP_DESC	% <LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Min, Max
+ASSAY_COMP_DESC	Min, Max
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_FCC_PFAS_Serum_Initial_AID_1
+DATA_COLLECTION	Ohio FCC PFAS Serum Initial
+ASSAY_NAME	FCC (Ohio) serum PFAS, at first measurement (1990-1991)
+ASSAY_DESCRIPTION	Fernald Community Cohort (FCC) study of serum PFAS, at first measurement (1990-1991)
+ASSAY_URL	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6309414/
+ASSAY_NOTE	Source: Associations between longitudinal serum perfluoroalkyl substance (PFAS) levels and measures of thyroid hormone, kidney function, and body mass index in the Fernald Community Cohort; Environ Pollut. 2018 Nov; 242(Pt A): 894–904.
+ASSAY_NOTE	Data from Table 2. Serum levels of perfluoroalkyl substances (PFAS) (ug/L), at first measurement for PFAS (N = 210)
+ASSAY_NOTE	The Fernald Community Cohort (FCC) was an eighteen-year medical surveillance program for residents living in proximity to a former U.S. Department of Energy uranium processing site in Fernald, Ohio
+ASSAY_NOTE	A total of 210 participants were selected from the FCC after being identified as at high risk for exposure to PFAS based on living in zip codes bordering the Ohio River (between December 1990 and December 1991)
+ASSAY_NOTE	Serum from the initial enrollment used
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	# Carbons
+ASSAY_COMP_DESC	# Carbons (Analyte)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	N (%) < LOD
+ASSAY_COMP_DESC	Number (%) < LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Min
+ASSAY_COMP_DESC	Minimum Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	25th
+ASSAY_COMP_DESC	25th Percentile (concentration)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	75th
+ASSAY_COMP_DESC	75th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Max
+ASSAY_COMP_DESC	Maximum Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_FCC_PFAS_Serum_1991-2008_AID_1
+DATA_COLLECTION	Ohio FCC PFAS Serum 1991-2008
+ASSAY_NAME	FCC (Ohio) serum PFAS, 1991-2008
+ASSAY_DESCRIPTION	Fernald Community Cohort (FCC) geometric means for serum PFAS, 1991-2008
+ASSAY_URL	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6309414/
+ASSAY_NOTE	Source: Associations between longitudinal serum perfluoroalkyl substance (PFAS) levels and measures of thyroid hormone, kidney function, and body mass index in the Fernald Community Cohort; Environ Pollut. 2018 Nov; 242(Pt A): 894–904.
+ASSAY_NOTE	Data from Supplemental Table 7. Geometric mean concentrations1 of PFAS by year of serum collection
+ASSAY_NOTE	The Fernald Community Cohort (FCC) was an eighteen-year medical surveillance program for residents living in proximity to a former U.S. Department of Energy uranium processing site in Fernald, Ohio
+ASSAY_NOTE	A total of 210 participants were selected from the FCC after being identified as at high risk for exposure to PFAS based on living in zip codes bordering the Ohio River (between December 1990 and December 1991)
+ASSAY_NOTE	Serum from years of 1991 to 2008 was used; Selected participants preferentially had ≥3 serum samples collected in different calendar years.
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Measurement
+ASSAY_COMP_DESC	Measurement
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	1991
+ASSAY_COMP_DESC	1991; N = 17
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	1992
+ASSAY_COMP_DESC	1992, N = 38
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	1993
+ASSAY_COMP_DESC	1993, N = 38
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	1994
+ASSAY_COMP_DESC	1994, N = 85
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	1995
+ASSAY_COMP_DESC	1995, N = 63
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	1996
+ASSAY_COMP_DESC	1996, N = 41
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	1997
+ASSAY_COMP_DESC	1997, N = 9
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	1998
+ASSAY_COMP_DESC	1998, N = 26
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	1999
+ASSAY_COMP_DESC	1999, N = 4
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	2006
+ASSAY_COMP_DESC	2006, N = 3
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	2007
+ASSAY_COMP_DESC	2007, N = 86
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	2008
+ASSAY_COMP_DESC	2008, N = 60
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Child_6-9_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Child 6-9
+ASSAY_NAME	Child PFAS in serum in Mid-Ohio Valley
+ASSAY_DESCRIPTION	PFAS in serum of children (6-9) in Mid-Ohio Valley, C8 Study 2005-2006
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/ehp.1509869
+ASSAY_NOTE	Source:  Perfluoroalkyl substances, sex hormones, and insulin-like growth factor-1 at 6–9 years of age: a cross-sectional analysis within the C8 Health Project. Environ Health Perspect 124:1269–1275;  Lopez-Espinosa MJ, et al. 2016
+ASSAY_NOTE	Data from Table 2 Levels of sex hormones, IGF-1 and PFAS in children 6–9 years of age (n = 2,292), Mid-Ohio Valley (USA), 2005–2006.
+ASSAY_NOTE	... investigated the relationship between levels of PFAS and estradiol, total testosterone, and IGF-1 in 2,292 children (6–9 years of age) from the C8 Health Project who lived near a chemical plant in the Mid-Ohio Valley (USA) with local contamination from PFOA.
+ASSAY_NOTE	This work (the “C8 Science Panel Community Study at LSHTM”) was supported by the C8 Class Action Settlement Agreement (Circuit Court of Wood County, WV) between DuPont and plaintiffs
+ASSAY_NOTE	Data on 69,030 people were collected in the “C8 Health Project” between August 2005 and July 2006
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym or Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	n > LOD
+ASSAY_COMP_DESC	Boys (n = 1,169) n > LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Median (IQR)
+ASSAY_COMP_DESC	Boys (n = 1,169) Median (IQR) ( IQR, interquartile range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	 n > LOD
+ASSAY_COMP_DESC	Girls (n = 1,123) n > LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Median (IQR)
+ASSAY_COMP_DESC	Girls (n = 1,123) Median (IQR) ( IQR, interquartile range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Child_1-17_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Child 1-17
+ASSAY_NAME	Mid-Ohio Valley Child (1-17) PFAS in serum
+ASSAY_DESCRIPTION	PFAS in serum of children (1-17) in Mid-Ohio Valley, C8 Study 2005-2006
+ASSAY_URL	https://www.researchgate.net/publication/221978649_Thyroid_Function_and_Perfluoroalkyl_Acids_in_Children_Living_Near_a_Chemical_Plant
+ASSAY_NOTE	Source: Thyroid Function and Perfluoroalkyl Acids in Children Living Near a Chemical Plant; Maria-Jose Lopez-Espinosa et al.; March 2012 Environmental Health Perspectives 120(7):1036-41
+ASSAY_NOTE	Data from Table 2. TSH, TT4, and PFAA concentrations in children 1-17 years of age, Mid-Ohio Valley, 2005-2006
+ASSAY_NOTE	PFAAs were measured during 2005–2006
+ASSAY_NOTE	The C8 Health Project collected data on 69,030 people, of whom 12,476 were 1–17 years of age at enrollment. Of the 12,476 children, 10,725 (86%) had serum PFAA and thyroid hormone measurements
+ASSAY_NOTE	We investigated whether concentrations of PFAAs were associated with thyroid function among 10,725 children (1–17 years of age) living near a Teflon manufacturing facility in the Mid-Ohio Valley (USA
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Description
+ASSAY_COMP_DESC	Target description, including units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Age
+ASSAY_COMP_DESC	Age range
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	median (IQR)
+ASSAY_COMP_DESC	All children median (IQR); interquartile range (IQR)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	median (IQR)
+ASSAY_COMP_DESC	Boys median (IQR); interquartile range (IQR)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	median (IQR)
+ASSAY_COMP_DESC	Girls median (IQR); interquartile range (IQR)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Overall_2009_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Overall 2009
+ASSAY_NAME	summary statistics for PFAS in serum in C8 Health Project
+ASSAY_DESCRIPTION	Population summary statistics for PFAS in serum in C8 Health Project (Ohio Valley, 2005-2006)
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/ehp.0800379
+ASSAY_NOTE	Source:  The C8 Health Project: Design, Methods, and Participants; S.J. Frisbee, et al., EHP Vol. 117, No. 12, 1 December 2009
+ASSAY_NOTE	Data from Table 3 Population serum concentrations for seven PFCs (ng/mL).
+ASSAY_NOTE	Reports population summary statistics for the seven PFCs by sex and age groups; 10 PFCS were analyzed; participants from water districts in Ohio and WV
+ASSAY_NOTE	This work (the “C8 Science Panel Community Study at LSHTM”) was supported by the C8 Class Action Settlement Agreement (Circuit Court of Wood County, WV) between DuPont and plaintiffs
+ASSAY_NOTE	Data on 69,030 people were collected in the “C8 Health Project” between August 2005 and July 2006
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym or Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Footnotes
+ASSAY_COMP_DESC	Footnotes for substance
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Female < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Female < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Female < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Female < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Male < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Male < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Male < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Male < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Total < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Female, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Female, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Female, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Female, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Male 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Male 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Male 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Male 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Total, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID2	26
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total, 12–19 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Female 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Female 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	29
+ASSAY_COMP_NAME	Geometric mean, Female 20–39 years
+ASSAY_COMP_DESC	Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	30
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Female 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	31
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Male 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	32
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Male 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	33
+ASSAY_COMP_NAME	Geometric mean, Male 20–39 years
+ASSAY_COMP_DESC	Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	34
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Male 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	35
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Total, 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	36
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total, 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	37
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total, 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	38
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total, 20–39 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	39
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Female 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	40
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Female 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	41
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Female 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	42
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Female 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	43
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, male 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	44
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, male 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	45
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, male 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	46
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, male 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	47
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Total 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	48
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	49
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	50
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total 40–59 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	51
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Female ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	52
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Female ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	53
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Female ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	54
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Female ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	55
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, male ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	56
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, male ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	57
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, male ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	58
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, male ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	59
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Total, ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	60
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total, ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	61
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total, ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	62
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total, ≥ 60 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	63
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Total population, Female
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	64
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total population, Female
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	65
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total population, Female
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	66
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total population, Female
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	67
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, SD, Total population, Male
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	68
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total population, Male
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	69
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total population, Male
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	70
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total population, Male
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	71
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean, Total population, Total
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	72
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median, Total population, Total
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	73
+ASSAY_COMP_NAME	Geometric mean
+ASSAY_COMP_DESC	Geometric mean, Total population, Total
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	74
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	Standard Deviation, SD, Total population, Total
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_HOME_Study_PFAS_Serum_2021_AID_1
+DATA_COLLECTION	Ohio HOME Study PFAS Serum 2021
+ASSAY_NAME	Ohio HOME Study Biomonitoring of maternal serum (2021)
+ASSAY_DESCRIPTION	Ohio Health Outcomes and Measures of the Environment (HOME) Study monitoring of maternal serum (2021)
+ASSAY_NOTE	Source document: Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) and neurobehavior in US children through 8 years of age: the HOME Study; Ann M Vuong; Environmental Research Volume 195, April 2021, 110825
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935121001195?via%3Dihub
+ASSAY_NOTE	Data from Table S1. Distributions of prenatal PFAS in maternal serum (ng/mL), HOME Study
+ASSAY_NOTE	A total of 241 mother-child dyads were eligible for the present study, with 193, 210, and 190 having completed assessments of the BASC-2 at age 5 years, the BASC-2 at age 8 years, and a DISC-YC at age 5 years, respectively.
+ASSAY_NOTE	Health Outcomes and Measures of the Environment (HOME) Study, a prospective pregnancy and birth cohort in the United States.
+ASSAY_NOTE	Recruited pregnant women from Cincinnati, Ohio area
+ASSAY_NOTE	Objective; To examine associations between maternal serum PFAS concentrations and child behavior in 241 mother-child dyads within the Health Outcomes and Measures of the Environment (HOME) Study
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	n
+ASSAY_COMP_DESC	Maternal serum,  number of observations
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	% >LOD
+ASSAY_COMP_DESC	% >LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	25th
+ASSAY_COMP_DESC	25th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	50th
+ASSAY_COMP_DESC	50th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	75th
+ASSAY_COMP_DESC	75th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	95th
+ASSAY_COMP_DESC	95th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	GM (GSD)
+ASSAY_COMP_DESC	geometric mean (geometric standard deviation)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	population city
+ASSAY_COMP_DESC	population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	NHANES GM
+ASSAY_COMP_DESC	NHANES geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	footnotes
+ASSAY_COMP_DESC	footnotes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Serum_2014_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Serum 2014
+ASSAY_NAME	PFAS in serum in C8 Health Project and Gilbert syndrome
+ASSAY_DESCRIPTION	summary statistics for PFAS in serum in C8 Health Project (Ohio Valley, 2005-2006) and Gilbert syndrome
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935114002710?via%3Dihub
+ASSAY_NOTE	Source: Perfluorocarbons and Gilbert syndrome (phenotype) in the C8 Health Study Population; Hongmin Fan et al.; Environmental Research Volume 135, November 2014, Pages 70-75
+ASSAY_NOTE	Data from Table 2. Association between PFC serum concentration (ng/ml) and Gilbert syndrome phenotype.
+ASSAY_NOTE	Objective: Our study goal was to evaluate whether individuals who exhibit the Gilbert syndrome (GS) phenotype also retain more perfluorocarbon compounds (PFCs) in their serum
+ASSAY_NOTE	Final study sample of 54,446, including 1166 adults with phenotypic GS, and a comparison population of 53,280 who do not have GS (Control 1)
+ASSAY_NOTE	Data on 69,030 people were collected in the “C8 Health Project” between August 2005 and July 2006
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym or Name, including comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	n
+ASSAY_COMP_DESC	The whole population, number
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Geometric mean (95% CI)
+ASSAY_COMP_DESC	The whole population, Geometric mean (95% CI)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	n
+ASSAY_COMP_DESC	number (n) of Cases (with phenotypic GS)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Geometric mean (95% CI)
+ASSAY_COMP_DESC	Cases (with phenotypic GS), Geometric mean (95% CI)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	n
+ASSAY_COMP_DESC	Population 1, number (comparison population of 53,280 who do not have GS)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Geometric mean (95% CI)
+ASSAY_COMP_DESC	Geometric mean (95% CI), Population 1 (comparison population of 53,280 who do not have GS)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	P-value, Population 1, Comparison with Control 1, the probability value of t-test.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	n
+ASSAY_COMP_DESC	number, Population 2
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Geometric mean (95% CI)
+ASSAY_COMP_DESC	Geometric mean (95% CI), Population 2 (excluded 10,450 adults with abnormal liver function tests)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	P-value, Population 2, Comparison with Control 2, the probability value of t-test.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	PFAS_Serum_Mid-Ohio_River_Valley_1991-2002_AID_1
+DATA_COLLECTION	PFAS Serum Mid-Ohio River Valley 1991-2002
+ASSAY_NAME	PFAS exposure (serum) in the Mid-Ohio River Valley 1991-2012
+ASSAY_DESCRIPTION	PFAS exposure in the Mid-Ohio River Valley 1991-2012, serum from 931 participants
+ASSAY_URL	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5540235/
+ASSAY_NOTE	Source: Polyfluoroalkyl substance exposure in the Mid-Ohio River Valley, 1991-2012; Robert L. Herrick, et al.; A manuscript submitted to Environmental Pollution
+ASSAY_NOTE	Data from Table S2: PFAS descriptive statistics
+ASSAY_NOTE	Objective:  Quantify PFOA and 10 other PFAS in Mid-Ohio River Valley resident sera collected between 1991 and 2013 and determine whether the Ohio River and Ohio River Aquifer are exposure sources.
+ASSAY_NOTE	measured eleven PFAS in 1608 sera from 931 participants
+ASSAY_NOTE	participants from the Fernald Community Cohort (FCC), Ohio River Valley (ORV) Study and BCERP Puberty Study Cincinnati site cohort
+ASSAY_NOTE	data related to Ohio River and Ohio River Aquifer not included here
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Population
+ASSAY_COMP_DESC	Population/cohort
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym or Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	number of observations
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	% above LOD
+ASSAY_COMP_DESC	% above LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Geometric Mean
+ASSAY_COMP_DESC	Geometric Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Geometric Std. Dev
+ASSAY_COMP_DESC	Geometric Std. Dev
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	min
+ASSAY_COMP_DESC	(Range) minimum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	max
+ASSAY_COMP_DESC	(Range) maximum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	footnotes
+ASSAY_COMP_DESC	footnotes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	population city
+ASSAY_COMP_DESC	population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_HOME_Study_PFAS_Serum_2003-2006_AID_1
+DATA_COLLECTION	Ohio HOME Study PFAS Serum 2003-2006
+ASSAY_NAME	Ohio HOME Study of Maternal and infant PFAS (2003-2006)
+ASSAY_DESCRIPTION	Ohio Health Outcomes and Measures of the Environment (HOME) Study of PFAS in maternal serum and infant cord blood (2003-2006)
+ASSAY_NOTE	Source document: Changes in serum concentrations of maternal poly- and perfluoroalkyl substances over the course of pregnancy and predictors of exposure in a multiethnic cohort of Cincinnati, Ohio pregnant women during 2003–2006; Kayoko Kato et al.; Environ. Sci. Technol. 2014, 48, 16, 9600–9608
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935121001195?via%3Dihub
+ASSAY_NOTE	Data from Table S1. Median concentrations (µg/L) of PFASs and frequency of detection for maternal sera (at each collection point) and cord sera
+ASSAY_NOTE	Data were collected from mothers and their children participating in the Health Outcomes and Measures of the Environment (HOME) Study, an ongoing prospective birth cohort in the Cincinnati
+ASSAY_NOTE	we used the concentrations of PFASs in the 16 week samples, collected at the women’s prenatal care appointment visit; Umbilical cord blood was collected at the time of infant delivery
+ASSAY_NOTE	Health Outcomes and Measures of the Environment (HOME) Study
+ASSAY_NOTE	We analyzed a total of 182 (16-week), 78 (delivery), and 202 (cord) serum samples, including 71 maternal-infant dyads with mothers’ PFASs concentrations available at both 16 week of gestation and delivery
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Maternal, 16 weeks (N=182)
+ASSAY_COMP_DESC	Maternal serum, 16 weeks (N=182); Median concentrations [frequency of detection]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L [%]
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Maternal, birth ( N=78)
+ASSAY_COMP_DESC	Maternal serum, birth ( N=78); Median concentrations [frequency of detection]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L [%]
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Infant, cord  (n=202)
+ASSAY_COMP_DESC	Infant, cord blood  (n=202); Median concentrations [frequency of detection]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L [%]
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	limits of detection (LODs)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_HOME_Study_PFAS_Serum_2003-2006_AID_2
+DATA_COLLECTION	Ohio HOME Study PFAS Serum 2003-2006
+ASSAY_NAME	Ohio HOME Study of PFAS in Maternal and infant matched pairs (2003-2006)
+ASSAY_DESCRIPTION	Ohio Health Outcomes and Measures of the Environment (HOME) Study of PFAS in maternal serum and infant cord blood pairs (2003-2006)
+ASSAY_NOTE	Source document: Changes in serum concentrations of maternal poly- and perfluoroalkyl substances over the course of pregnancy and predictors of exposure in a multiethnic cohort of Cincinnati, Ohio pregnant women during 2003–2006; Kayoko Kato et al.; Environ. Sci. Technol. 2014, 48, 16, 9600–9608
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935121001195?via%3Dihub
+ASSAY_NOTE	Data from Table 1. Median Concentrations (in μg/L) of PFASs and Frequency of Detection for 71 Paired Maternal–Infant Serum Samples Collected during Gestation and at Delivery
+ASSAY_NOTE	Data from Table S2. Geometric mean serum concentrations (in µg/L) for select PFASs for 71 paired samples
+ASSAY_NOTE	Data were collected from mothers and their children participating in the Health Outcomes and Measures of the Environment (HOME) Study, an ongoing prospective birth cohort in the Cincinnati
+ASSAY_NOTE	we used the concentrations of PFASs in the 16 week samples, collected at the women’s prenatal care appointment visit; Umbilical cord blood was collected at the time of infant delivery
+ASSAY_NOTE	Health Outcomes and Measures of the Environment (HOME) Study
+ASSAY_NOTE	We analyzed a total of 182 (16-week), 78 (delivery), and 202 (cord) serum samples, including 71 maternal-infant dyads with mothers’ PFASs concentrations available at both 16 week of gestation and delivery
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	maternal, 16 weeks
+ASSAY_COMP_DESC	maternal serum, 16 weeks; median concentration [frequency of detection]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L [%]
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	maternal, delivery
+ASSAY_COMP_DESC	maternal serum, delivery; median concentration [frequency of detection, %]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L [%]
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	infant’s cord serum
+ASSAY_COMP_DESC	infant’s cord serum; median concentration [frequency of detection, %]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L [%]
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	limits of detection (LODs)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Maternal, 16 weeks
+ASSAY_COMP_DESC	Maternal serum, 16 weeks; Geometric mean (95% Confidence interval)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Maternal, delivery
+ASSAY_COMP_DESC	Maternal serum, delivery; Geometric mean (95% Confidence interval)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Infant, cord
+ASSAY_COMP_DESC	Infant, cord blood; Geometric mean (95% Confidence interval)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_HOME_Study_PFAS_Demogr_2003-2006_AID_1
+DATA_COLLECTION	Ohio HOME Study PFAS Demogr 2003-2006
+ASSAY_NAME	Ohio HOME Study of PFAS in infant cord blood by demographics (2003-2006)
+ASSAY_DESCRIPTION	Ohio Health Outcomes and Measures of the Environment (HOME) Study of PFAS in infant cord blood by demographics (2003-2006)
+ASSAY_NOTE	Source document: Changes in serum concentrations of maternal poly- and perfluoroalkyl substances over the course of pregnancy and predictors of exposure in a multiethnic cohort of Cincinnati, Ohio pregnant women during 2003–2006; Kayoko Kato et al.; Environ. Sci. Technol. 2014, 48, 16, 9600–9608
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935121001195?via%3Dihub
+ASSAY_NOTE	Data from Table S5. Geometric mean concentrations of PFOS, PFOA, PFNA, PFHxS, and Me-PFOSA-AcOH in umbilical cord serum  (µg/L) according to demographic, perinatal and lifestyle factors
+ASSAY_NOTE	Data were collected from mothers and their children participating in the Health Outcomes and Measures of the Environment (HOME) Study, an ongoing prospective birth cohort in the Cincinnati
+ASSAY_NOTE	we used the concentrations of PFASs in the 16 week samples, collected at the women’s prenatal care appointment visit; Umbilical cord blood was collected at the time of infant delivery
+ASSAY_NOTE	Health Outcomes and Measures of the Environment (HOME) Study
+ASSAY_NOTE	We analyzed a total of 182 (16-week), 78 (delivery), and 202 (cord) serum samples, including 71 maternal-infant dyads with mothers’ PFASs concentrations available at both 16 week of gestation and delivery
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	parameter
+ASSAY_COMP_DESC	measurement parameter
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	< 25
+ASSAY_COMP_DESC	Maternal Age (years) < 25; N = 43 (21%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	> 35
+ASSAY_COMP_DESC	Maternal Age (years) > 35; N = 31 (15%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	25-34
+ASSAY_COMP_DESC	Maternal Age (years) 25-34; N = 128 (64%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Non-Hispanic black
+ASSAY_COMP_DESC	Race Non-Hispanic black; N = 61(31.5%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	other
+ASSAY_COMP_DESC	Race other; N = 11( 5.5%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	non-Hispanic white
+ASSAY_COMP_DESC	Race non-Hispanic white;  N = 128 (64)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	< $20,000
+ASSAY_COMP_DESC	Household income < $20,000; N = 34 (17%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	$20,000-40000
+ASSAY_COMP_DESC	Household income $20,000-40000;  N = 40 (20%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	$40,000-80000
+ASSAY_COMP_DESC	Household income $40,000-80000;  N = 68 (34%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	> $80,000
+ASSAY_COMP_DESC	Household income > $80,000; N = 58 (29%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Obese ( >= 30 Kg/m2 )
+ASSAY_COMP_DESC	BMI, Obese ( >= 30 Kg/m2 ); N = 51 (25%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	Overweight ( 25- 29.9 Kg/m2)
+ASSAY_COMP_DESC	BMI, Overweight ( 25- 29.9 Kg/m2); N = 70 (35%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Normal ( < 24.9 Kg/m2)
+ASSAY_COMP_DESC	BMI, Normal ( < 24.9 Kg/m2); N = 79 (39%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	Yes
+ASSAY_COMP_DESC	Breast feeding history, yes; N = 82 (40%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	No
+ASSAY_COMP_DESC	Breast feeding history, No; N = 120 (60%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Education < 12 years; N = 15 (7.5%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	12 years
+ASSAY_COMP_DESC	Education 12 years; N = 27 (13.5%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	> 12 years
+ASSAY_COMP_DESC	Education > 12 years, N = 158 (79%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	preterm ( < 37 weeks)
+ASSAY_COMP_DESC	Gestational age, preterm ( < 37 weeks); N = 16 (8%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	Term ( ≥ 37 weeks)
+ASSAY_COMP_DESC	Gestational age, Term ( ≥ 37 weeks); N = 186 (92%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	active smoker ( ≥3)
+ASSAY_COMP_DESC	Serum cotinine (ug/L), active smoker ( ≥3); N = 90  (44.5%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	secondhand smoker (0.015-3)
+ASSAY_COMP_DESC	Serum cotinine (ug/L), secondhand smoker (0.015-3); N = 94 (46.5%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	non smoker (<0.015)
+ASSAY_COMP_DESC	Serum cotinine (ug/L), non smoker (<0.015); N = 18 (9%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	>1
+ASSAY_COMP_DESC	Parity >1; N = 52 (26%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	1
+ASSAY_COMP_DESC	Parity 1; N = 63 (31%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	0
+ASSAY_COMP_DESC	Parity 0, N = 87 (43%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	29
+ASSAY_COMP_NAME	notes
+ASSAY_COMP_DESC	notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	30
+ASSAY_COMP_NAME	population city
+ASSAY_COMP_DESC	population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_HOME_Study_PFAS_Demogr_2003-2006_AID_2
+DATA_COLLECTION	Ohio HOME Study PFAS Demogr 2003-2006
+ASSAY_NAME	Ohio HOME Study of PFAS in Maternal blood by demographics (2003-2006)
+ASSAY_DESCRIPTION	Ohio Health Outcomes and Measures of the Environment (HOME) Study of PFAS in Maternal Prenatal blood by demographics (2003-2006)
+ASSAY_NOTE	Source document: Changes in serum concentrations of maternal poly- and perfluoroalkyl substances over the course of pregnancy and predictors of exposure in a multiethnic cohort of Cincinnati, Ohio pregnant women during 2003–2006; Kayoko Kato et al.; Environ. Sci. Technol. 2014, 48, 16, 9600–9608
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935121001195?via%3Dihub
+ASSAY_NOTE	Data from Table 3. Geometric Mean Maternal Prenatal (16 weeks) Concentrations of PFOS, PFOA, PFNA, PFHxS, and Me-PFOSA-AcOH (μg/L) According to Demographic, Perinatal and Lifestyle Factors
+ASSAY_NOTE	Data were collected from mothers and their children participating in the Health Outcomes and Measures of the Environment (HOME) Study, an ongoing prospective birth cohort in the Cincinnati
+ASSAY_NOTE	we used the concentrations of PFASs in the 16 week samples, collected at the women’s prenatal care appointment visit; Umbilical cord blood was collected at the time of infant delivery
+ASSAY_NOTE	Health Outcomes and Measures of the Environment (HOME) Study
+ASSAY_NOTE	We analyzed a total of 182 (16-week), 78 (delivery), and 202 (cord) serum samples, including 71 maternal-infant dyads with mothers’ PFASs concentrations available at both 16 week of gestation and delivery
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	parameter
+ASSAY_COMP_DESC	measurement parameter
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	< 25
+ASSAY_COMP_DESC	Maternal Age (years) < 25; N = 40 (22%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	> 35
+ASSAY_COMP_DESC	Maternal Age (years) > 35; N = 30 (16%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	25-34
+ASSAY_COMP_DESC	Maternal Age (years) 25-34; N = 112 (62%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Non-Hispanic black
+ASSAY_COMP_DESC	Race Non-Hispanic black; N = 56 (31.1%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	other
+ASSAY_COMP_DESC	Race other; N = 10 (5.6%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	non-Hispanic white
+ASSAY_COMP_DESC	Race non-Hispanic white;  N = 114 (63.3%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	< $20,000
+ASSAY_COMP_DESC	Household income < $20,000; N = 29 (16%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	$20,000-40000
+ASSAY_COMP_DESC	Household income $20,000-40000;  N = 37 (20.6%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	$40,000-80000
+ASSAY_COMP_DESC	Household income $40,000-80000;  N = 64 (35.6%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	> $80,000
+ASSAY_COMP_DESC	Household income > $80,000; N = 50 (27.8%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Obese ( >= 30 Kg/m2 )
+ASSAY_COMP_DESC	BMI, Obese ( >= 30 Kg/m2 ); N = 67 (36.8%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	Overweight ( 25- 29.9 Kg/m2)
+ASSAY_COMP_DESC	BMI, Overweight ( 25- 29.9 Kg/m2); N = 47 (25.8%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Normal ( < 24.9 Kg/m2)
+ASSAY_COMP_DESC	BMI, Normal ( < 24.9 Kg/m2); N = 66 (36.4%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	Yes
+ASSAY_COMP_DESC	Breast feeding history, yes; N = 74 (41%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	No
+ASSAY_COMP_DESC	Breast feeding history, No; N = 108 (59%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Education < 12 years; N = 12 (6.7%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	12 years
+ASSAY_COMP_DESC	Education 12 years; N = 25 (13.9%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	> 12 years
+ASSAY_COMP_DESC	Education > 12 years, N = 143 (79.4%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	preterm ( < 37 weeks)
+ASSAY_COMP_DESC	Gestational age, preterm ( < 37 weeks); N = 14 (7.7%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	Term ( ≥ 37 weeks)
+ASSAY_COMP_DESC	Gestational age, Term ( ≥ 37 weeks); N = 68 (92.3%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	active smoker ( ≥3)
+ASSAY_COMP_DESC	Serum cotinine (ug/L), active smoker ( ≥3); N = 14 (7.7%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	secondhand smoker (0.015-3)
+ASSAY_COMP_DESC	Serum cotinine (ug/L), secondhand smoker (0.015-3); N = 117 (64.3%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	non smoker (<0.015)
+ASSAY_COMP_DESC	Serum cotinine (ug/L), non smoker (<0.015); N = 51 (28%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	>1
+ASSAY_COMP_DESC	Parity >1; N = 47 (25.8%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	1
+ASSAY_COMP_DESC	Parity 1; N = 57 (31.3%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	0
+ASSAY_COMP_DESC	Parity 0, N = 78 (42.9%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ug/L
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	29
+ASSAY_COMP_NAME	notes
+ASSAY_COMP_DESC	notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	30
+ASSAY_COMP_NAME	population city
+ASSAY_COMP_DESC	population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Lipids_2005-2006_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Lipids 2005-2006
+ASSAY_NAME	PFOA, PFOA and serum lipids in the Ohio River Valley Study (2005-2006)
+ASSAY_DESCRIPTION	PFOA, PFOS and serum lipids in the Mid-Ohio River Valley C8 Study (2005-2006)
+ASSAY_URL	https://academic.oup.com/aje/article/170/10/1268/113175?login=true
+ASSAY_NOTE	Source: Association of Perfluorooctanoic Acid and Perfluorooctane Sulfonate With Serum Lipids Among Adults Living Near a Chemical Plant; Kyle Steenland et al.; American Journal of Epidemiology, Volume 170, Issue 10, 15 November 2009
+ASSAY_NOTE	Data from Table 1. Descriptive Statistics and PFOA, PFOS, and Outcome Variables (n = 46,294), Ohio and West Virginia, 2005–2006
+ASSAY_NOTE	The current study is an analysis of these data in adults aged 18 years or older who were not taking cholesterol-lowering medication, with a goal of determining whether there are associations between PFOA or PFOS and lipids.
+ASSAY_NOTE	The exposure metric in this study is serum PFOA or PFOS measured in 2005–2006, and the outcomes are concurrent levels of lipids.
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance name or parameter
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	units
+ASSAY_COMP_DESC	units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Mean (SD) 
+ASSAY_COMP_DESC	Mean Concentration (SD)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Median 
+ASSAY_COMP_DESC	Median Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Range 
+ASSAY_COMP_DESC	Concentration Range
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	% Missing 
+ASSAY_COMP_DESC	% Missing 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Births_2005-2010_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Births 2005-2010
+ASSAY_NAME	PFOA, PFOA and birth outcomes in Ohio River Valley Study (2005-2010)
+ASSAY_DESCRIPTION	PFOA, PFOS and birth outcomes in Mid-Ohio River Valley C8 Study (2005-2010)
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/ehp.1206372?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+ASSAY_NOTE	Source: Serum Perfluorooctanoic Acid and Perfluorooctane Sulfonate Concentrations in Relation to Birth Outcomes in the Mid-Ohio Valley, 2005-2010; Lyndsey A. Darrow, Cheryl R. Stein, Kyle Steenland; Environmental Health Perspectives doi:10.1289/ehp.1206372
+ASSAY_NOTE	Data from Table 2 Maternal serum concentrations of PFOA and PFOS (ng/mL).
+ASSAY_NOTE	Objective: We conducted a population-based study of PFOA and PFOS and birth outcomes from 2005 through 2010 in a Mid-Ohio Valley community exposed to high levels of PFOA through drinking-water contamination.
+ASSAY_NOTE	a population in the Mid-Ohio Valley living near a chemical manufacturing plant in Parkersburg, West Virginia.
+ASSAY_NOTE	subset of participants in the C8 Health Project (n = 32,254); Characteristics of the 1,630 births among 1,330 women included in the analyses
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	GM (SD)
+ASSAY_COMP_DESC	GM, geometric mean (SD)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/m
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Mean ± SD
+ASSAY_COMP_DESC	Mean ± SD  Among 1,630 births included in analysis.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	n < LOD
+ASSAY_COMP_DESC	n < LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Range
+ASSAY_COMP_DESC	Concentration Range (LOD  0.25)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	5th
+ASSAY_COMP_DESC	5th percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	25th
+ASSAY_COMP_DESC	25h Percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	50th
+ASSAY_COMP_DESC	50th Percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	75th 
+ASSAY_COMP_DESC	75th percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	95th
+ASSAY_COMP_DESC	95th percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	 
+ASSAY_COMP_DESC	 Body mass index (GM) (Among 1,330 women at time of enrollment); Underweight, < 18.5
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	BMI
+ASSAY_COMP_DESC	Body mass index (GM); Normal, 18.5 to < 25
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	 BMI
+ASSAY_COMP_DESC	Body mass index (GM); Overweight, 25 to < 30
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	BMI 
+ASSAY_COMP_DESC	Body mass index (GM); Obese, ≥ 30
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Education (GM)
+ASSAY_COMP_DESC	Education (GM) < 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	 Education (GM)
+ASSAY_COMP_DESC	 Education (GM); 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	Education (GM)
+ASSAY_COMP_DESC	Education (GM); 13–15 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	Education (GM)
+ASSAY_COMP_DESC	Education (GM); ≥ 16 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	Maternal age (GM)
+ASSAY_COMP_DESC	Maternal age (GM); 19–29 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	Maternal age (GM) 
+ASSAY_COMP_DESC	Maternal age (GM); 30–34 years 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	Maternal age (GM)
+ASSAY_COMP_DESC	Maternal age (GM); ≥ 35 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	Parity (GM) 
+ASSAY_COMP_DESC	Parity (GM); ≥ 1 previous live birth
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	Parity (GM)
+ASSAY_COMP_DESC	Parity (GM); ≥ 1 previous live birth
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	Reference 
+ASSAY_COMP_DESC	 NHANES 2003–2004 (females); GM (95% CI) (Calafat et al. 2007)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Ohio_HOME_PFAS_Prenatal_2003-2006_AID_1
+DATA_COLLECTION	Ohio HOME PFAS Prenatal 2003-2006
+ASSAY_NAME	Ohio HOME Study of PFAS in pregnant women near perfluoro plant (2003-2006)
+ASSAY_DESCRIPTION	Ohio HOME Study of Prenatal PFAS in pregnant women near fluoropolymer manufacturing plant (2003-2006)
+ASSAY_NOTE	Source document: Prenatal Perfluoroalkyl Substance Exposure and Child Adiposity at 8 Years of Age: The HOME Study; Joseph M. Braun, et al.; Obesity; Volume2 4, Issue1; January 2016
+ASSAY_URL	https://onlinelibrary.wiley.com/doi/full/10.1002/oby.21258
+ASSAY_NOTE	Data from Supplemental Table S2: Descriptive statistics of serum PFAS concentrations (ng/mL) in pregnant women from the NHANES in the US (n=174) and pregnant women from the HOME Study in Cincinnati, OH (n=204) (2003-2006)
+ASSAY_NOTE	Objective: To examine relationships between prenatal perfluoroalkyl substance (PFAS) exposure and adiposity in children born to women who lived downstream from a fluoropolymer manufacturing plant.
+ASSAY_NOTE	recruited pregnant women from nine prenatal clinics associated with three hospitals in the Cincinnati, Ohio area from March 2003 to January 2006; collected serial blood samples from women at 16 and 26 weeks gestation and delivery
+ASSAY_NOTE	We used data from the HOME Study, a prospective cohort study designed to examine the impact of early life exposure to prevalent environmental chemicals
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	PFAS/Study Group
+ASSAY_COMP_DESC	PFAS/Study Group
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	N (%) <LOD
+ASSAY_COMP_DESC	N (%) <LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Number (%)
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Minimum
+ASSAY_COMP_DESC	Minimum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	25th Percentile
+ASSAY_COMP_DESC	25th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	75th Percentile
+ASSAY_COMP_DESC	75th Percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Maximum
+ASSAY_COMP_DESC	Maximum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	Limit of Detection
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Pregnancy_2000-2005_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Pregnancy 2000-2005
+ASSAY_NAME	Ohio Valley C8 project Serum PFOA and PFAS and pregnancy outcomes
+ASSAY_DESCRIPTION	Ohio Valley C8 Project Serum PFOA and PFAS and pregnancy outcomes in an exposed community
+ASSAY_NOTE	Source document: Serum Levels of Perfluorooctanoic Acid and Perfluorooctane Sulfonate and Pregnancy Outcome; Cheryl R Stein, et al.; American Journal of Epidemiology, Volume 170, Issue 7, 1 October 2009, Pages 837–846
+ASSAY_URL	https://academic.oup.com/aje/article/170/7/837/92302?login=true
+ASSAY_NOTE	Data from Table 1. Univariate Characteristics of Singleton Pregnancies Within 5 Years of C8 Health Project Enrollment, Mid-Ohio Valley, 2000–2006
+ASSAY_NOTE	The C8 Health Project enrolled subjects between August 2005 and July 2006.
+ASSAY_NOTE	a population in the Mid-Ohio Valley living near a chemical manufacturing plant in Parkersburg, West Virginia
+ASSAY_NOTE	We examined the relation between PFC level and self-reported pregnancy outcomes from the C8 Health Project questionnaire
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Measurement
+ASSAY_COMP_DESC	measurement units unless otherwise stated
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Pregnancies
+ASSAY_COMP_DESC	All pregnancies - Unique women 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Pregnancies
+ASSAY_COMP_DESC	Pregnancies per woman: 1
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Pregnancies
+ASSAY_COMP_DESC	Pregnancies per woman: 2
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Pregnancies
+ASSAY_COMP_DESC	Pregnancies per woman: 3
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Pregnancies
+ASSAY_COMP_DESC	Pregnancies per woman: 4
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Pregnancies
+ASSAY_COMP_DESC	Pregnancies per woman: 5
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Pregnancy outcome
+ASSAY_COMP_DESC	Pregnancy outcome: Miscarriage 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Pregnancy outcome
+ASSAY_COMP_DESC	Pregnancy outcome: Stillbirth 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Pregnancy outcome
+ASSAY_COMP_DESC	Pregnancy outcome: Livebirth 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	PFOA
+ASSAY_COMP_DESC	Serum PFOA at interview: Mean (SD) 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	PFOA
+ASSAY_COMP_DESC	Serum PFOA at interview: 21.2 (10.3–49.8) 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	0.25–<21.3 ng/mL (<50th percentile)
+ASSAY_COMP_DESC	Serum PFOA at interview: 0.25–<21.3 ng/mL (<50th percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	21.3–<50.0 ng/mL (50th–<75th percentile) 
+ASSAY_COMP_DESC	Serum PFOA at interview: 21.3–<50.0 ng/mL (50th–<75th percentile) 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	50.0–<120.6 ng/mL (75th–90th percentile) 
+ASSAY_COMP_DESC	Serum PFOA at interview: 50.0–<120.6 ng/mL (75th–90th percentile) 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	120.6–894.4 ng/mL (>90th percentile) 
+ASSAY_COMP_DESC	Serum PFOA at interview: 120.6–894.4 ng/mL (>90th percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	Mean (SD) 
+ASSAY_COMP_DESC	Serum PFOS at interview: Mean (SD) 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	Median (IQR) 
+ASSAY_COMP_DESC	Serum PFOS at interview: Median (IQR) 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	0.25–<12.7 ng/mL (<50th percentile)
+ASSAY_COMP_DESC	Serum PFOS at interview: 0.25–<12.7 ng/mL (<50th percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	12.7–<17.7 ng/mL (50th–<75th percentile)
+ASSAY_COMP_DESC	Serum PFOS at interview: 12.7–<17.7 ng/mL (50th–<75th percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	17.7–<23.2 ng/mL (75th–90th percentile)
+ASSAY_COMP_DESC	Serum PFOS at interview: 17.7–<23.2 ng/mL (75th–90th percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	23.2–83.4 ng/mL (>90th percentile)
+ASSAY_COMP_DESC	Serum PFOS at interview: 23.2–83.4 ng/mL (>90th percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	Belpre, Ohio
+ASSAY_COMP_DESC	Water district: Belpre, Ohio
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	Little Hocking, Ohio
+ASSAY_COMP_DESC	Water district: Little Hocking, Ohio
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	Pomeroy, Ohio
+ASSAY_COMP_DESC	Water district: Pomeroy, Ohio
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	Tupper Plains–Chester, Ohio
+ASSAY_COMP_DESC	Water district: Tupper Plains–Chester, Ohio
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	Lubeck, West Virginia
+ASSAY_COMP_DESC	Water district: Lubeck, West Virginia
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	29
+ASSAY_COMP_NAME	Mason County, West Virginia
+ASSAY_COMP_DESC	Water district: Mason County, West Virginia
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	30
+ASSAY_COMP_NAME	15–19
+ASSAY_COMP_DESC	Age at pregnancy: 15–19
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	years
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	31
+ASSAY_COMP_NAME	20–34
+ASSAY_COMP_DESC	Age at pregnancy: 20–34
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	years
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	32
+ASSAY_COMP_NAME	35–55
+ASSAY_COMP_DESC	Age at pregnancy: 35–55
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	years
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	33
+ASSAY_COMP_NAME	Parity
+ASSAY_COMP_DESC	Parity: 0 previous livebirths
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	34
+ASSAY_COMP_NAME	Parity
+ASSAY_COMP_DESC	Parity: ≥1 previous livebirths
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	35
+ASSAY_COMP_NAME	Education
+ASSAY_COMP_DESC	Education at interview: <12 years 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	36
+ASSAY_COMP_NAME	Education
+ASSAY_COMP_DESC	Education at interview: 12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	37
+ASSAY_COMP_NAME	Education
+ASSAY_COMP_DESC	Education at interview: >12 years
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	38
+ASSAY_COMP_NAME	Smoking status
+ASSAY_COMP_DESC	Smoking status at interview: Never
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	39
+ASSAY_COMP_NAME	Smoking status
+ASSAY_COMP_DESC	Smoking status at interview: Former
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	40
+ASSAY_COMP_NAME	Smoking status
+ASSAY_COMP_DESC	Smoking status at interview: Current 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	41
+ASSAY_COMP_NAME	Unique women 
+ASSAY_COMP_DESC	Pregnancies ending in livebirths:
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	42
+ASSAY_COMP_NAME	Births
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Births per woman = 1
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	43
+ASSAY_COMP_NAME	Births
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Births per woman = 2
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	44
+ASSAY_COMP_NAME	Births
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Births per woman = 3
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	45
+ASSAY_COMP_NAME	Births
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: : Births per woman = 4
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	46
+ASSAY_COMP_NAME	Preeclampsia
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Preeclampsia ? Yes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	47
+ASSAY_COMP_NAME	Preeclampsia
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Preeclampsia ? No
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	48
+ASSAY_COMP_NAME	Preterm birth
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Preterm birth: Preterm birth <37 weeks 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	49
+ASSAY_COMP_NAME	Term birth
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Preterm birth: Term birth
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	50
+ASSAY_COMP_NAME	Low birth weight
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Low birth weight: Birth weight <5.5 pounds
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	51
+ASSAY_COMP_NAME	Low birth weight
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Low birth weight: Birth weight >5.5 pounds
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	52
+ASSAY_COMP_NAME	Birth defect 
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Birth defect? Yes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	53
+ASSAY_COMP_NAME	Birth defect 
+ASSAY_COMP_DESC	Pregnancies ending in livebirths: Birth defect? No
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	54
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFOS_PFOA_2005-2006_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFOS PFOA 2005-2006
+ASSAY_NAME	Ohio Valley C8 project Serum PFOA and PFAS in exposed adults
+ASSAY_DESCRIPTION	Ohio Valley C8 Project Serum PFOA and PFAS in exposed adults (2005-2006)
+ASSAY_NOTE	Source document: Association of Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonate (PFOS) with Uric Acid among Adults with Elevated Community Exposure to PFOA; Kyle Steenland, et al.; Environmental Health Perspectives volume 118 number 2 February 2010
+ASSAY_URL	https://academic.oup.com/aje/article/170/7/837/92302?login=true
+ASSAY_NOTE	Data from Table 1. Descriptive statistics (n = 54,951) for adults ≥ 20 years of age in the Mid-Ohio Valley in 2005-2006
+ASSAY_NOTE	The C8 Health Project enrolled subjects between August 2005 and July 2006.
+ASSAY_NOTE	a population in the Mid-Ohio Valley living near a chemical manufacturing plant in Parkersburg, West Virginia
+ASSAY_NOTE	We conducted a cross-sectional study of PFOA and PFOS and uric acid among 54,951 adult community residents in Ohio and West Virginia, who lived or worked in six water districts contaminated with PFOA from a chemical plant
+ASSAY_NOTE	Additional demographic data in Table 1 is not included here
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	acronym
+ASSAY_COMP_DESC	Substance name/acronym and comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	units
+ASSAY_COMP_DESC	units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Mean ± SD
+ASSAY_COMP_DESC	Mean concentration ± SD (interquartile range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFOS_PFOA_Child_Lipids_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFOS PFOA Child Lipids
+ASSAY_NAME	Ohio Valley C8 project Serum PFOA and PFAS in exposed children
+ASSAY_DESCRIPTION	Ohio Valley C8 Project Serum PFOA and PFAS in children exposed to contaminated drinking water
+ASSAY_NOTE	Source document: Perfluorooctanoic acid, perfluorooctanesulfonate, and serum lipids in children and adolescents: results from the C8 Health Project; Stephanie J Frisbee, et al.; Arch Pediatr Adolesc Med. 2010 Sep; 164(9): 860–869
+ASSAY_URL	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116641/
+ASSAY_NOTE	Data from Table 1 Participant Characteristics
+ASSAY_NOTE	The C8 Health Project enrolled subjects between August 2005 and July 2006.
+ASSAY_NOTE	a population in the Mid-Ohio Valley living near a chemical manufacturing plant in Parkersburg, West Virginia
+ASSAY_NOTE	Participants in the current study were 12,476 children, 1–17.9 years at their enrollment in the C8 Health Project. Criteria = consumption of contaminated drinking water
+ASSAY_NOTE	Our objective is to interrogate the association between PFOA and PFOS and serum lipids in children.
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Variable
+ASSAY_COMP_DESC	Substance name/acronym and comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	units
+ASSAY_COMP_DESC	units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Parameter / Stratification
+ASSAY_COMP_DESC	Parameter / Stratification
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Boys
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Girls
+ASSAY_COMP_DESC	Girls
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Total
+ASSAY_COMP_DESC	Total
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFOS_PFOA_Lipids_2005-2006_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFOS PFOA Lipids 2005-2006
+ASSAY_NAME	Ohio Valley C8 project Serum PFOA and PFAS in exposed adults
+ASSAY_DESCRIPTION	Ohio Valley C8 Project Serum PFOA and PFAS in adults exposed to contaminated drinking water
+ASSAY_NOTE	Source document: Association of Perfluorooctanoic Acid and Perfluorooctane Sulfonate With Serum Lipids Among Adults Living Near a Chemical Plant; Kyle Steenland, et al.; American Journal of Epidemiology, Volume 170, Issue 10, 15 November 2009
+ASSAY_URL	https://academic.oup.com/aje/article/170/10/1268/113175
+ASSAY_NOTE	Data from Table 1. Descriptive Statistics and PFOA, PFOS, and Outcome Variables (n = 46,294), Ohio and West Virginia, 2005–2006
+ASSAY_NOTE	The C8 Health Project enrolled subjects between August 2005 and July 2006.
+ASSAY_NOTE	a population in the Mid-Ohio Valley living near a chemical manufacturing plant in Parkersburg, West Virginia
+ASSAY_NOTE	A cross-sectional study of lipids and PFOA and PFOS was conducted among 46,294 community residents aged 18 years or above, who drank water contaminated with PFOA from a chemical plant in West Virginia
+ASSAY_NOTE	The exposure metric in this study is serum PFOA or PFOS measured in 2005–2006, and the outcomes are concurrent levels of lipids.
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Variable
+ASSAY_COMP_DESC	Substance name/acronym and comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	units
+ASSAY_COMP_DESC	units, unless otherwise stated
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Mean (SD) 
+ASSAY_COMP_DESC	Mean concentration (SD) 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Range
+ASSAY_COMP_DESC	concentration range
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	% Missing 
+ASSAY_COMP_DESC	% Missing 
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFOA_Serum_Residency_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFOA Serum Residency
+ASSAY_NAME	Ohio Valley C8 project Serum PFOA in current and former residents
+ASSAY_DESCRIPTION	Ohio Valley C8 Project Serum PFOA in current and former residents of an exposed community
+ASSAY_NOTE	Source document:  Accumulation and Clearance of Perfluorooctanoic Acid (PFOA) in Current and Former Residents of an Exposed Community; Ryan Seals et al.; EHP Vol. 119, No. 1 January 2011
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/ehp.1002346
+ASSAY_NOTE	Data from Table 1 Median PFOA (nanograms per milliliter) in 2005–2006 (n) for current and former residents.
+ASSAY_NOTE	The C8 Health Project enrolled subjects between August 2005 and July 2006.
+ASSAY_NOTE	a population in the Mid-Ohio Valley living near a chemical manufacturing plant in Parkersburg, West Virginia
+ASSAY_NOTE	Objective: We assessed the impact of years of residence and years since residing in the study area on serum PFOA concentration in a sample of current and former residents who were exposed to PFOA emissions from an industrial facility in six water districts in West Virginia and Ohio.
+ASSAY_NOTE	Former residents limited to individuals in Little Hocking and Lubeck with > 2 years residence and > 15 ng/mL PFOA.
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance name/acronym and comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Category
+ASSAY_COMP_DESC	Variable category
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Variable
+ASSAY_COMP_DESC	Variable
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Current Residents, Median concentration (n)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Former residents, Median concentration (n)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Ohio_Valley_C8_PFAS_Serum_2005-2006_AID_1
+DATA_COLLECTION	Ohio Valley C8 PFAS Serum 2005-2006
+ASSAY_NAME	Serum PFCs in serum 2005-2006 in Ohio Valley C8 Study
+ASSAY_DESCRIPTION	Population Serum PFCs in serum 2005-2006 in Ohio Valley C8 Study by Age and Sex
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/ehp.0800379?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+ASSAY_NOTE	Source: The C8 Health Project: Design, Methods, and Participants; Kyle Steenland; EHP Vol. 117, No. 12
+ASSAY_NOTE	Data from Table 3 Population serum concentrations for seven PFCs (ng/mL).
+ASSAY_NOTE	Objective: This study reports on the methods and results from the C8 Health Project, a population study created to gather data that would allow class members to know their own PFOA levels and permit subsequent epidemiologic investigations.
+ASSAY_NOTE	Final study participation was 69,030, enrolled over a 13-month period in 2005–2006
+ASSAY_NOTE	The C8 Health Project was created, authorized, and funded as part of the settlement agreement reached in the case of Jack W. Leach, et al. v. E.I. du Pont de Nemours & Company (no. 01-C-608 W.Va., Wood County Circuit Court, filed 10 April 2002).
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym or Name, including comments
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Footnotes
+ASSAY_COMP_DESC	Substance Notes/Footnotes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Female, < 12 years: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Female, < 12 years: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Female, < 12 years: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Female, < 12 years: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Male < 12 years: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Male < 12 years: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Male < 12 years: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	Male < 12 years: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	All < 12 years: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	All < 12 years: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	All < 12 years: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	< 12 years
+ASSAY_COMP_DESC	All < 12 years: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Female 12–19 years: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Female 12–19 years: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Female 12–19 years: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Female 12–19 years: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Male 12–19 years: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Male 12–19 years: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Male 12–19 years: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Male 12–19 years: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Total 12–19 years: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Total 12–19 years: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Total 12–19 years: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	12–19 years
+ASSAY_COMP_DESC	Total 12–19 years: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Females: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Females: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	29
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Females: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	30
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Females: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	31
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years males: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	32
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years males: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	33
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years males: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	34
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years males: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	35
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Total: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	36
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Total: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	37
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Total: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	38
+ASSAY_COMP_NAME	20–39 years
+ASSAY_COMP_DESC	20–39 years Total: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	39
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Female: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	40
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Female: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	41
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Female: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	42
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Female: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	43
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years males: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	44
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years males: median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	45
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years males: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	46
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years males: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	47
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Total: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	48
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Total: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	49
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Total: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	50
+ASSAY_COMP_NAME	40–59 years
+ASSAY_COMP_DESC	40–59 years Total: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	51
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Females: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	52
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Females: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	53
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Females: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	54
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Females: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	55
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years males: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	56
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years males: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	57
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years males: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	58
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years males: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	59
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Total: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	60
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Total: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	61
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Total: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	62
+ASSAY_COMP_NAME	≥ 60 years
+ASSAY_COMP_DESC	≥ 60 years Total: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	63
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Females: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	64
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Females: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	65
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Females: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	66
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Females: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	67
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Males: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	68
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Males: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	69
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Males: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	70
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Males: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	71
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Total: Mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	72
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Total: Median
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	73
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Total: Geometric mean
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	74
+ASSAY_COMP_NAME	Total population
+ASSAY_COMP_DESC	Total population Total: SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	75
+ASSAY_COMP_NAME	Population City
+ASSAY_COMP_DESC	Population City
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END

@@ -1,0 +1,1946 @@
+SOURCE_NAME_AID	Denmark_EYHS_PFAS_Child_2020_AID_1
+DATA_COLLECTION	Denmark EYHS PFAS Child 2020
+ASSAY_NAME	Denmark PFAS in Child Blood, Denmark (2020)
+ASSAY_DESCRIPTION	European youth heart study (EYHS) PFAS in Child Blood, Denmark (2020)
+ASSAY_NOTE	Publication: Exposure to perfluoroalkylated substances (PFAS) in relation to fitness, physical activity, and adipokine levels in childhood: The european youth heart study; Environmental Research Volume 191, December 2020, 110110
+ASSAY_NOTE	Data from Table 1. Descriptive characteristics of study participants with and without complete data.
+ASSAY_NOTE	EYHS = european youth heart study
+ASSAY_NOTE	Data were obtained from the Danish sub-study of the European Youth Heart Study (EYHS). Study participants were initially enrolled in 3rd grade at age 9
+ASSAY_NOTE	five most abundant PFAS (PFOS, PFOA, PFNA, PFDA, PFHxS) analyzed
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935120310070?via%3Dihub
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Parameter
+ASSAY_COMP_DESC	Parameter/Target Analyte
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations (boys)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Boys, Median (IQR)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations (Girls)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Girls
+ASSAY_COMP_DESC	Girls, Median (IQR)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	p-value
+ASSAY_COMP_DESC	 Difference: between boys and girls. p-value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations - Sample with missing data
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Sample with missing data
+ASSAY_COMP_DESC	Sample with missing data, Median (IQR)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes/Footnotes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+END
+SOURCE_NAME_AID	Denmark_EYHS_PFAS_Child_2016_AID_1
+DATA_COLLECTION	Denmark EYHS PFAS Child 2016
+ASSAY_NAME	Denmark PFAS in Child Blood, Denmark (1997, 2003, 2009)
+ASSAY_DESCRIPTION	European youth heart study (EYHS) PFAS in Child Blood, Denmark (1997, 2003, 2009)
+ASSAY_NOTE	Publication: Longitudinal Associations of Exposure to Perfluoroalkylated Substances in Childhood and Adolescence and Indicators of Adiposity and Glucose Metabolism 6 and 12 Years Later: The European Youth Heart Study. Diabetes Care 2016 Oct; 39(10): 1745-1751.
+ASSAY_NOTE	Data from Table 1 Distribution of PFOS and PFOA and indicators of adiposity and glucose metabolism in childhood, adolescence, and young adulthood
+ASSAY_NOTE	EYHS = european youth heart study
+ASSAY_NOTE	Study long-term association of exposure to perfluoroalkylated substances, including perfluorooctanesulfonic acid (PFOS) and perfluorooctanoic acid (PFOA), during childhood (9 years) and adolescence (15 years) on indicators of adiposity and glucose metabolism in adolescence (15 years) and young adulthood (21 years)
+ASSAY_NOTE	same participants have been observed from childhood (N = 590), during adolescence (N = 444), and into young adulthood (N = 369). Stored plasma samples were analyzed for PFOS and PFOA
+ASSAY_URL	https://care.diabetesjournals.org/content/39/10/1745.full
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Parameter
+ASSAY_COMP_DESC	Parameter/Target Analyte
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations (Childhood (1997) boys)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Boys, Childhood (1997) Median (IQR)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations (Females, childhood, 1997)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Females
+ASSAY_COMP_DESC	Median (IQR) (Females, childhood, 1997)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations Adolescence, males (2003)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Adolescence (2003)
+ASSAY_COMP_DESC	Median (IQR) (Adolescence, males, 2003)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations Females
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Females
+ASSAY_COMP_DESC	Median (IQR) (Adolescence, females, 2003)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations (males, Adulthood, 2009)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	males
+ASSAY_COMP_DESC	Median (IQR) (males, Adulthood, 2009)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N = number of observations (Females, Adulthood, 2009)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	Females
+ASSAY_COMP_DESC	Median (IQR) (Females, Adulthood, 2009)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_PFAS_Plasma_2011_AID_1
+DATA_COLLECTION	Denmark PFAS Plasma 2011
+ASSAY_NAME	PFAS in blood samples from mothers and children in Denmark, 2011
+ASSAY_DESCRIPTION	PFAS in blood samples from mothers and children in Denmark, 2011
+ASSAY_NOTE	Publication: PFAS concentrations in plasma samples from Danish school children and their mothers; Thit A.Mørck et al.; Chemosphere Volume 129, June 2015, Pages 203-209
+ASSAY_NOTE	Data from Table 2. Levels of PFOA, PFHxS, PFNA, PFDA, br-PFOS, n-PFOS and total-PFOS in children (ng mL−1 plasma).
+ASSAY_NOTE	Data From Table 3. Levels of PFOA, PFHxS, PFNA, PFDA, br-PFOS, n-PFOS and total-PFOS in mothers (ng mL−1 plasma).
+ASSAY_NOTE	116 children aged 6–11 and 143 mothers in two locations in Denmark donated blood samples (September to December 2011)
+ASSAY_NOTE	participation in the large European human biomonitoring project, DEMOCOPHES (Demonstration of a study to COordinate and Perform Human Biomonitoring on a European Scale)
+ASSAY_URL	https://agris.fao.org/agris-search/search.do?recordID=US201600279585
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	children, number of samples
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	> LOD
+ASSAY_COMP_DESC	> LOD; children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean concentration, children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	SD, children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Minimum
+ASSAY_COMP_DESC	Minimum concentration, children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	p5
+ASSAY_COMP_DESC	p5 (Percentile), children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	p50
+ASSAY_COMP_DESC	p50 (Percentile), children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	p95
+ASSAY_COMP_DESC	p95 (Percentile), children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Maximum
+ASSAY_COMP_DESC	Maximum, children
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	N
+ASSAY_COMP_DESC	N, mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	> LOD
+ASSAY_COMP_DESC	> LOD, mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Mean
+ASSAY_COMP_DESC	Mean concentration, mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	SD
+ASSAY_COMP_DESC	SD, mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Minimum
+ASSAY_COMP_DESC	Minimum concentration, mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	p5
+ASSAY_COMP_DESC	p5 (Percentile), mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	p50
+ASSAY_COMP_DESC	p50 (Percentile), mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	p95
+ASSAY_COMP_DESC	p95 (Percentile), mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	Maximum
+ASSAY_COMP_DESC	Maximum concentration, mothers
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_PFAS_Embryonic_2014-2016_AID_1
+DATA_COLLECTION	Denmark PFAS Embryonic 2014-2016
+ASSAY_NAME	PFAS human embryonic and fetal organs in Denmark and Sweden
+ASSAY_DESCRIPTION	PFAS human embryonic and fetal organs in Denmark (2014-2016) and Sweden (2015-2016)
+ASSAY_NOTE	Publication: Concentrations of perfluoroalkyl substances (PFASs) in human embryonic and fetal organs from first, second, and third trimester pregnancies; Linn Salto Mamsen et al.; Environment International Volume 124, March 2019, Pages 482-492
+ASSAY_NOTE	Data from Supplementary Table 3. Concentration of perfluorinated alkyl substances (PFAS) in maternal serum, placenta and fetal tissues by trimester
+ASSAY_NOTE	Data From Supplementary Table 2. Limit of Quantification (LOQ) of perfluorinated alkyl substances (PFASs) in serum and tissue samples, defined as the concentration corresponding to ten times the standard deviation of the ratio of the peak at the same retention time as the analyzed compounds and the corresponding internal standards determined in the chemical blank samples.
+ASSAY_NOTE	A total of 78 pregnancies were included, from which a total of 296 individual tissue samples were obtained. 
+ASSAY_NOTE	First trimester embryonic and fetal tissues from Denmark 2014–2015; Second and third trimester fetal samples, Sweden 2015–2016.
+ASSAY_NOTE	Maternal blood samples were available in 63 cases. Fetal tissue was obtained from 38 first trimester pregnancies, 18 second trimester pregnancies, and 22 third trimester pregnancies 
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0160412018326102?via%3Dihub
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Parameter
+ASSAY_COMP_DESC	Result Parameter
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Serum
+ASSAY_COMP_DESC	Serum, Trimester 1, N = 23
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Serum
+ASSAY_COMP_DESC	Serum, Trimester 2, N = 18
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Serum
+ASSAY_COMP_DESC	Serum, Trimester 3, N = 22
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Serum
+ASSAY_COMP_DESC	Serum, all Trimesters, N = 63
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Placenta
+ASSAY_COMP_DESC	Placenta, Trimester 1, N = 33
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Placenta
+ASSAY_COMP_DESC	Placenta, Trimester 2, N = 17
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Placenta
+ASSAY_COMP_DESC	Placenta, Trimester 3, N = 21
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Placenta
+ASSAY_COMP_DESC	Placenta, all Trimesters, N = 71
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Liver
+ASSAY_COMP_DESC	Liver, Trimester 1, N = 14
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	Liver
+ASSAY_COMP_DESC	Liver, Trimester 2, N = 17
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Liver
+ASSAY_COMP_DESC	Liver, Trimester 3, N = 22
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	Liver
+ASSAY_COMP_DESC	Liver, all Trimesters, N = 53
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Lung
+ASSAY_COMP_DESC	Lung, Trimester 1, N = 17
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	Lung
+ASSAY_COMP_DESC	Lung, Trimester 2, N = 18
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	Lung
+ASSAY_COMP_DESC	Lung, Trimester 3, N = 22
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	Lung
+ASSAY_COMP_DESC	Lung, all Trimesters, N = 57
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	Heart
+ASSAY_COMP_DESC	Heart, Trimester 1, N = 5
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	Heart
+ASSAY_COMP_DESC	Heart, Trimester 2, N = 18
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	Heart
+ASSAY_COMP_DESC	Heart, Trimester 3, N = 21
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	Heart
+ASSAY_COMP_DESC	Heart, all Trimesters, N = 44
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	CNS
+ASSAY_COMP_DESC	CNS – central nervous system consisting spinal cord from first trimester and brain from second and third trimesters, Trimester 1, N = 6
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	CNS
+ASSAY_COMP_DESC	CNS – central nervous system consisting spinal cord from first trimester and brain from second and third trimesters, Trimester 2, N = 18
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	CNS
+ASSAY_COMP_DESC	CNS – central nervous system consisting spinal cord from first trimester and brain from second and third trimesters, Trimester 3, N = 22
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	CNS
+ASSAY_COMP_DESC	CNS – central nervous system consisting spinal cord from first trimester and brain from second and third trimesters, all Trimesters, N = 46
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	Adipose
+ASSAY_COMP_DESC	Adipose, Trimester 1, N = 0
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	Adipose
+ASSAY_COMP_DESC	Adipose, Trimester 2, N = 3
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	29
+ASSAY_COMP_NAME	Adipose
+ASSAY_COMP_DESC	Adipose, Trimester 3, N = 22
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	30
+ASSAY_COMP_NAME	Adipose
+ASSAY_COMP_DESC	Adipose, all Trimesters, N = 25
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	31
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes for results
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	32
+ASSAY_COMP_NAME	LOQ
+ASSAY_COMP_DESC	Limit of Quantification (LOQ), Serum, First Trimester
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	33
+ASSAY_COMP_NAME
+ASSAY_COMP_DESC	Limit of Quantification (LOQ), Serum, Second Trimester
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	34
+ASSAY_COMP_NAME	LOQ
+ASSAY_COMP_DESC	Limit of Quantification (LOQ), Serum, Third Trimester
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	35
+ASSAY_COMP_NAME	LOQ
+ASSAY_COMP_DESC	Limit of Quantification (LOQ), Tissue, First Trimester
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	36
+ASSAY_COMP_NAME	LOQ
+ASSAY_COMP_DESC	Limit of Quantification (LOQ), Tissue, Second Trimester
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	37
+ASSAY_COMP_NAME	LOQ
+ASSAY_COMP_DESC	Limit of Quantification (LOQ), Tissue, Third Trimester
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	38
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes for LOQ
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng mL−1 plasma
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_SRC_PFAS_DNBC_1996-2002_AID_1
+DATA_COLLECTION	Denmark SRC PFAS DNBC 1996-2002
+ASSAY_NAME	PFAS exposure of children in DNBC cohort (1996-2002)
+ASSAY_DESCRIPTION	Maternal Plasma PFAS in Danish National Birth Cohort (DNBC) 1999-2002, Cerebral Palsey study
+ASSAY_NOTE	Publication: Prenatal Exposure to Perfluoroalkyl Substances and the Risk of Congenital Cerebral Palsy in Children; Zeyan Liew et al.; American Journal of Epidemiology, Volume 180, Issue 6, 15 September 2014, Pages 574–581
+ASSAY_NOTE	Data from Table 2. Median Maternal Plasma Perfluoroalkyl Substance Concentrations in Cases and Controls, by Child's Sex, Danish National Birth Cohort, 1996–2002
+ASSAY_NOTE	The source population for this study includes 83,389 liveborn singletons and mothers enrolled in the Danish National Birth Cohort
+ASSAY_NOTE	We identified 156 children in the DNBC source population who were diagnosed with congenital Cerebral Palsey
+ASSAY_NOTE	We randomly selected 550 children (440 boys) by sex from the source population to be the population control group
+ASSAY_NOTE	Data for 6 of 16 targets reported
+ASSAY_URL	https://academic.oup.com/aje/article/180/6/574/2739217
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Carbon Chain Length
+ASSAY_COMP_DESC	Carbon Chain Length
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	% Quantifiable in All Samples
+ASSAY_COMP_DESC	% Quantifiable in All Samples
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Median for boys
+ASSAY_COMP_DESC	Maternal Plasma: Boys, CP Cases (n = 86); Median Perfluoroalkyl Substance Concentration, (Interquartile Range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Boys, Controls
+ASSAY_COMP_DESC	Maternal Plasma: Boys, Controls (n = 435); Median Perfluoroalkyl Substance Concentration, (Interquartile Range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Girls
+ASSAY_COMP_DESC	Maternal Plasma: Girls; CP Cases (n = 66); Median Perfluoroalkyl Substance Concentration, (Interquartile Range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Controls, Girls
+ASSAY_COMP_DESC	Maternal Plasma: Girls; Controls (n = 110); Median Perfluoroalkyl Substance Concentration, (Interquartile Range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	population city
+ASSAY_COMP_DESC	population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_Finland_PFAS_Boys_1997-2001_AID_1
+DATA_COLLECTION	Denmark Finland PFAS Boys 1997-2001
+ASSAY_NAME	PFAS exposure in boys in Danish and Finnish study (1997-2001)
+ASSAY_DESCRIPTION	PFAS exposure in boys in Danish and a Finnish birth cohort study (1997-2001)
+ASSAY_NOTE	Publication: No association between exposure to perfluorinated compounds and congenital cryptorchidism: a nested case–control study among 215 boys from Denmark and Finland; Dorte Vesterholm Jensen, Jeppe Christensen; Reproduction Volume 147: Issue 4
+ASSAY_NOTE	Data from Table 1. Median (M) PFAS levels (ng/ml) and 5–95 percentiles (5–95) and percent above detection levels (LOD) in all the 215 cord blood samples among cases (cryptorchidism) and controls in Denmark and Finland respectively.
+ASSAY_NOTE	investigated differences in PFAS exposure levels between Denmark and Finland and the association between cord blood PFAS levels and congenital cryptorchidism
+ASSAY_NOTE	cord blood serum samples collected from 29 Danish boys with congenital cryptorchidism, 30 healthy Danish matched controls recruited from 1997 to 2001, 30 Finnish cases, and 78 Finnish healthy matched controls recruited from 1997 to 1999
+ASSAY_NOTE	Additionally, 48 Finnish cases recruited from 2000 to 2002 were included
+ASSAY_URL	https://rep.bioscientifica.com/view/journals/rep/147/4/411.xml
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Percentage (>LOD)
+ASSAY_COMP_DESC	Percentage (>LOD) Denmark
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	 Median
+ASSAY_COMP_DESC	 Median Denmark, All (n=59)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	5–95 percentiles
+ASSAY_COMP_DESC	5–95 percentiles Denmark, All (n=59)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median Denmark, Controls (n=30)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	5–95 percentiles
+ASSAY_COMP_DESC	5–95 percentiles Denmark, Controls (n=30)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median Denmark, Cases (n=29)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	5–95 percentiles
+ASSAY_COMP_DESC	5–95 percentiles Denmark, Cases (n=29)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median Finland, All (n=156)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	5–95 percentiles
+ASSAY_COMP_DESC	5–95 percentiles Finland, All (n=156)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median Finland, Controls (n=78)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	5–95 percentiles
+ASSAY_COMP_DESC	5–95 percentiles Finland, Controls (n=78)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median Finland, Cases (n=78)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	5–95 percentiles
+ASSAY_COMP_DESC	5–95 percentiles Finland, Cases (n=78)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	LOQ
+ASSAY_COMP_DESC	LOQ
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_PFAA_Semen_Blood_2003_AID_1
+DATA_COLLECTION	Denmark PFAA Semen Blood 2003
+ASSAY_NAME	PFAA in semen and blood of young Danish men (2003)
+ASSAY_DESCRIPTION	PFAA concentrations in blood and semen of Danish men (median age, 19 years) in 2003
+ASSAY_NOTE	Publication: Joensen, U.N., et al., "Do Perfluoroalkyl Compounds Impair Human Semen Quality?," Environ. Health Persp. (doi: 10.1289/ehp.0800517).
+ASSAY_NOTE	Data from Table 1 Median PFAA concentrations (5th–95th percentiles; ng/mL) for high- and low-testosterone groups and all study subjects.
+ASSAY_NOTE	Objective: We investigated possible associations between PFAAs and testicular function. We hypothesized that higher PFAA levels would be associated with lower semen quality and lower testosterone levels.
+ASSAY_NOTE	Of the 546 men examined in 2003, we selected 105 for the investigation of association between PFAAs and testicular function.
+ASSAY_URL	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2702407/
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Samples > LOD
+ASSAY_COMP_DESC	number of Samples > LOD (N = 105)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	High testosterone (n = 53)
+ASSAY_COMP_DESC	High testosterone (n = 53) Group (Median PFAA concentrations (5th–95th percentiles))
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Low testosterone (n = 52)
+ASSAY_COMP_DESC	Low testosterone (n = 52) Group (Median PFAA concentrations (5th–95th percentiles))
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Whole group (n = 105)
+ASSAY_COMP_DESC	Whole group (n = 105) (Median PFAA concentrations (5th–95th percentiles))
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	p-Value
+ASSAY_COMP_DESC	p-Value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	footnote
+ASSAY_COMP_DESC	Footnote
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_DNBC_PFC_Maternal_1996-2002_AID_1
+DATA_COLLECTION	Denmark DNBC PFC Maternal 1996-2002
+ASSAY_NAME	PFCs in plasma of pregnant women in Danish National Birth Cohort
+ASSAY_DESCRIPTION	Perfluorinated chemicals (PFCs) in plasma of pregnant women in Danish National Birth Cohort (DNBC) 1996-2002
+ASSAY_NOTE	Publication: Maternal levels of perfluorinated chemicals and subfecundity; C. Fei, et al.; Human Reproduction, Volume 24, Issue 5, May 2009
+ASSAY_NOTE	Data from Table I Characteristics of study subjects and TTP among women with planned pregnancy
+ASSAY_NOTE	the Danish National Birth Cohort (DNBC). The women were enrolled into the DNBC, a nationwide follow-up study of almost 100 000 children and their mothers
+ASSAY_NOTE	Plasma levels of PFOS and PFOA were measured at weeks 4–14 of pregnancy among 1240 women from the Danish National Birth Cohort recruited from 1996 to 2002
+ASSAY_URL	https://academic.oup.com/humrep/article/24/5/1200/711357?login=true
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym or Characteristic
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	characteristic values
+ASSAY_COMP_DESC	characteristic values
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	units
+ASSAY_COMP_DESC	units, unless otherwise stated
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	planned pregnancy
+ASSAY_COMP_DESC	mean ± SD; Women with planned pregnancy (n = 1240)%
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	<6 months
+ASSAY_COMP_DESC	mean ± SD; <6 months (n = 861)%
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	6–12 months
+ASSAY_COMP_DESC	mean ± SD; 6–12 months (n = 191)%
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	>12 months
+ASSAY_COMP_DESC	mean ± SD; >12 months (n = 188)%
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	PFOA (ng/ml)
+ASSAY_COMP_DESC	mean ± SD; PFOA (ng/ml)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	PFOS
+ASSAY_COMP_DESC	mean ± SD; PFOS (ng/ml)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_DNBC_PFC_Cord_Blood_1996-2002_AID_1
+DATA_COLLECTION	Denmark DNBC PFC Cord Blood 1996-2002
+ASSAY_NAME	PFAS in Maternal plasma and cord blood in DNBC cohort (1996-2002)
+ASSAY_DESCRIPTION	PFOS and PFOA in Maternal Plasma and cord blood in Danish National Birth Cohort (DNBC) 1999-2002
+ASSAY_NOTE	Publication: Perfluorinated Chemicals and Fetal Growth: A Study within the Danish National Birth Cohort; Chunyuan Fei et al., EHP Vol. 115, No. 11 Nov. 2007
+ASSAY_NOTE	Data from Table 2 Concentrations of PFOS and PFOA in the maternal and cord blood samples and birth outcomes of study subjects.
+ASSAY_NOTE	The Danish National Birth Cohort (DNBC) includes data on 91,827 pregnant women from March 1996 to November 2002
+ASSAY_NOTE	We investigated the association between plasma levels of PFOS and PFOA in pregnant women and their infants’ birth weight and length of gestation.
+ASSAY_NOTE	all participants who gave birth to a single live-born child without a reported congenital malformation (n = 87,752)
+ASSAY_NOTE	we randomly selected 1,400 mothers. Of the 1,400 selected, 1,102 had a second blood sample, and 200 were randomly selected among these. Of these 200, 146 had a cord blood sample from the child, and 50 were randomly selected among these. 
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.10506
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	number
+ASSAY_COMP_DESC	number of observations, 1st maternal blood levels
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	1st maternal blood
+ASSAY_COMP_DESC	1st maternal blood levels,  mean ± SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	number
+ASSAY_COMP_DESC	2nd maternal blood sample, number of observations
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	2nd maternal blood
+ASSAY_COMP_DESC	2nd maternal blood levels,  mean ± SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	number
+ASSAY_COMP_DESC	Umbilical cord blood levels, number of observations
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Umbilical cord blood levels
+ASSAY_COMP_DESC	Umbilical cord blood levels,  mean ± SD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/ml
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_PFAS_Faroe_Whales_1986-2013_AID_1
+DATA_COLLECTION	Denmark PFAS Faroe Whales 1986-2013
+ASSAY_NAME	PFAS in whale muscle tissue 1986-2013 around the Faroe Islands
+ASSAY_DESCRIPTION	PFAS in Atlantic pilot whale muscle tissue 1986-2013 around the Faroe Islands
+ASSAY_NOTE	Publication: Temporal shifts in poly- and perfluoroalkyl substances (PFASs) in North Atlantic pilot whales indicate large contribution of atmospheric precursors; Clifton Dassuncao, et al.; Environ. Sci. Technol. 2017, 51, 8, 4512–4521
+ASSAY_NOTE	Data from Table 1. Median Concentrations (ng g–1 wet weight) and Number of Samples above Detection Limit (DL) in Parentheses for 15 PFASs Measured in Juvenile Male Pilot Whale Muscle (Globicephala melas) between 1986 and 2013 from this Study and from the Faroese Environment Agency (FEA)
+ASSAY_NOTE	main objectives of this work are (1) To gain insight into the responsiveness of North Atlantic marine food-webs to the phase out in North American and European manufacturing of PFOS and its precursors around the year 2000
+ASSAY_NOTE	We selected muscle tissue for PFAS analysis from 86 pilot whales harvested in the Faroe Islands between 1994 and 2013 and archived by the Faroese Natural History Museum
+ASSAY_NOTE	In addition, we included PFAS data measured in the muscle of 38 juvenile male pilot whales that were previously analyzed by the Faroese Environment Agency to extend our temporal analysis back to 1986
+ASSAY_URL	https://pubs.acs.org/doi/10.1021/acs.est.7b00293
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	1986–1988
+ASSAY_COMP_DESC	Median Concentrations (Number of Samples above Detection Limit); 1986–1988 previously analyzed
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng g–1 wet weight
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	1994–1997
+ASSAY_COMP_DESC	Median Concentrations (Number of Samples above Detection Limit); 1994–1997
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng g–1 wet weight
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	1998–2002
+ASSAY_COMP_DESC	Median Concentrations (Number of Samples above Detection Limit); 1998–2002
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng g–1 wet weight
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	2006–2009
+ASSAY_COMP_DESC	Median Concentrations (Number of Samples above Detection Limit); 2006–2009
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng g–1 wet weight
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	2010–2013
+ASSAY_COMP_DESC	Median Concentrations (Number of Samples above Detection Limit); 2010–2013
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng g–1 wet weight
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	DL
+ASSAY_COMP_DESC	Detection Limit (DL), this study
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	not stated
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	DL
+ASSAY_COMP_DESC	Detection Limit (DL), (FEA, previous study)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	not stated
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_DNBC-LDPS_PFAS_Pregnancy_AID_1
+DATA_COLLECTION	Denmark DNBC-LDPS PFAS Pregnancy
+ASSAY_NAME	PFCs in plasma of pregnant women in Danish DNBC-LDPS cohort (2003-2008)
+ASSAY_DESCRIPTION	PFCs in plasma of pregnant women the Lifestyle During Pregnancy Study-Danish National Birth Cohort (LDPS-DNBC) 2003-2008
+ASSAY_NOTE	Publication: Prenatal Exposure to Perfluoroalkyl Substances and IQ Scores at Age 5; a Study in the Danish National Birth Cohort; Zeyan Liew, et al.; Environmental Health Perspectives 126(6) June 2018
+ASSAY_NOTE	Data from Table 2. Detection and quantitation limits of perfluoroalkyl substances (PFASs) and plasma concentrations of maternal PFASs in the Lifestyle During Pregnancy Study-Danish National Birth Cohort (LDPS-DNBC) (n = 1,592).
+ASSAY_NOTE	the Danish National Birth Cohort (DNBC). The women were enrolled into the DNBC, a nationwide follow-up study of almost 100 000 children and their mothers
+ASSAY_NOTE	3,478 mothers and children from the DNBC were invited to participate in the LDPS between September 2003 and June 2008 when the children reached 5 y of age
+ASSAY_NOTE	The final sample included 1,592 participants with a maternal blood sample collected at a median of 8 wk of gestation (interquartile range 7 to 10 wk) available for PFAS measurement. 
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/EHP2754
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Chemical name
+ASSAY_COMP_DESC	Chemical name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Lower limit of detection
+ASSAY_COMP_DESC	Lower limit of detection
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Lower limit of quantitation
+ASSAY_COMP_DESC	Lower limit of quantitation
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Percent >LLOQ
+ASSAY_COMP_DESC	Percent >LLOQ in all samples (n = 1,592)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Minimum
+ASSAY_COMP_DESC	Minimum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	25th Percentile
+ASSAY_COMP_DESC	25th Percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median concentration  (n = 1,592)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	75th Percentile
+ASSAY_COMP_DESC	75th Percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Maximum
+ASSAY_COMP_DESC	Maximum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_DNBC-LDPS_PFAS_Detail_AID_1
+DATA_COLLECTION	Denmark DNBC-LDPS PFAS Detail
+ASSAY_NAME	PFCs in plasma of pregnant women in Danish DNBC-LDPS cohort (2003-2008) by characteristics
+ASSAY_DESCRIPTION	PFCs in plasma of pregnant women the Lifestyle During Pregnancy Study-Danish National Birth Cohort (LDPS-DNBC) 2003-2008 by study characteristics
+ASSAY_NOTE	Publication: Prenatal Exposure to Perfluoroalkyl Substances and IQ Scores at Age 5; a Study in the Danish National Birth Cohort; Zeyan Liew, et al.; Environmental Health Perspectives 126(6) June 2018
+ASSAY_NOTE	Data from Table S3 Distributions of selected PFASs by study characteristics in the LDPS-DNBC cohort (N=1,592)
+ASSAY_NOTE	the Danish National Birth Cohort (DNBC). The women were enrolled into the DNBC, a nationwide follow-up study of almost 100 000 children and their mothers
+ASSAY_NOTE	3,478 mothers and children from the DNBC were invited to participate in the LDPS between September 2003 and June 2008 when the children reached 5 y of age
+ASSAY_NOTE	The final sample included 1,592 participants with a maternal blood sample collected at a median of 8 wk of gestation (interquartile range 7 to 10 wk) available for PFAS measurement. 
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/EHP2754
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Child's sex
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Child's sex: Female (n= 761)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Child's sex
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Child's sex: male (n - 831)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Parity
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Parity = 0 (n = 108)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Parity
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Parity = 1 (n = 511)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Parity
+ASSAY_COMP_DESC	Median and 25th-75th percentile; parity = >1 (n = 280)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Maternal age
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal age at child birth (years) = ≤ 24 (n = 149)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Maternal age
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal age at child birth (years) = 25-29 (n = 562)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Maternal age
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal age at child birth (years) = 30-34 (n = 617)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Maternal age
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal age at child birth (years) = ≥ 35 (n = 275)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Socio-economic status (SES)
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Socio-economic status (SES) = high (n = 1131)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	Socio-economic status (SES)
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Socio-economic status (SES) = Medium (n = 412)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Socio-economic status (SES)
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Socio-economic status (SES) = Low (n = 43)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	alcohol
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal alcohol consumption during pregnancy = Never (n = 756)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	alcohol
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal alcohol consumption during pregnancy = 1-4  glass per week (n = 655)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	alcohol
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal alcohol consumption during pregnancy = more than 4 glasses per week (n = 141)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	smoking
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal smoking during pregnancy = no (n = 1097)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	smoking
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal smoking during pregnancy = yes (n = 495)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	BMI
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal pre-pregnancy body mass index (BMI) = <18.5 (n = 61)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	BMI
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal pre-pregnancy body mass index (BMI) = 18.5-24.9 (n = 1091)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	BMI
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal pre-pregnancy body mass index (BMI) = 25.0-29.9 (n = 294)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	BMI
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal pre-pregnancy body mass index (BMI) = ≥30 (n = 116)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	Maternal IQ
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal IQ = < 85 (n = 239)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	Maternal IQ
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal IQ = 85-115 (n = 1083)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	Maternal IQ
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Maternal IQ = > 115 (n - 261)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	Gestational week of blood draw
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Gestational week of blood draw = <8 weeks (n = 664)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	Gestational week of blood draw
+ASSAY_COMP_DESC	Median and 25th-75th percentile; Gestational week of blood draw = ≥8 weeks (n = 793)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_DNBC_PubertyCohort_MaternalBlood_AID_1
+DATA_COLLECTION	Denmark DNBC PubertyCohort MaternalBlood
+ASSAY_NAME	PFCs in plasma of pregnant women in Danish DNBC Puberty Cohort
+ASSAY_DESCRIPTION	PFCs in plasma of pregnant women in the Puberty Cohort of Danish National Birth Cohort (DNBC) collected 2000-2002
+ASSAY_NOTE	Publication: Exposure to Perfluoroalkyl Substances during Fetal Life and Pubertal Development in Boys and Girls from the Danish National Birth Cohort; Andreas Ernst et al.; EHP Vol. 127, No. 1 Published:10 January 2019
+ASSAY_NOTE	Data from Table 1 Detection limits and sample-specific distribution of plasma perfluoroalkyl substance (PFAS) concentrations in first-trimester maternal samples from participants in the puberty cohort (n=722 and 445), stratified by sex, Denmark (2017).
+ASSAY_NOTE	the Danish National Birth Cohort (DNBC). The women were enrolled into the DNBC, a nationwide follow-up study of almost 100 000 children and their mothers
+ASSAY_NOTE	We studied two samples (n=722 and 445) from the Puberty Cohort, nested within the Danish National Birth Cohort (DNBC),
+ASSAY_NOTE	measuring PFAS in maternal plasma from early gestation
+ASSAY_NOTE	Objectives: We aimed to explore the associations between prenatal exposure to several PFASs and various aspects of pubertal development in boys and girls.
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/EHP3567?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Chemical name
+ASSAY_COMP_DESC	Chemical name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	limit of detection
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Sample 1 (n=722); Boys (n=356): <LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	n (%)
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Sample 1 (n=722); Boys (n=356): Median (10th–90th percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Girls
+ASSAY_COMP_DESC	Sample 1 (n=722); Girls (n=366): <LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	n (%)
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Girls
+ASSAY_COMP_DESC	Sample 1 (n=722); Girls (n=366): Median (10th–90th percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Sample 2 (n=445); Boys (n=235): <LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	n (%)
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Sample 2 (n=445); Boys (n=235): Median (10th–90th percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Girls
+ASSAY_COMP_DESC	Sample 2 (n=445); Girls (n=210): <LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	n (%)
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Girls
+ASSAY_COMP_DESC	Sample 2 (n=445); Girls (n=210): Median (10th–90th percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_CopenhagenMCC_PFAS_Boys_Detail_AID_1
+DATA_COLLECTION	Denmark CopenhagenMCC PFAS Boys Detail
+ASSAY_NAME	PFAS in healthy boys in Copenhagan Denmark by characteristic
+ASSAY_DESCRIPTION	PFAS in healthy boys in Danish Copenhagen Mother–Child Cohort by characteristic
+ASSAY_NOTE	Publication: Thomsen, M.L., Henriksen, L.S., Tinggaard, J. et al. Associations between exposure to perfluoroalkyl substances and body fat evaluated by DXA and MRI in 109 adolescent boys. Environ Health 20, 73 (2021).
+ASSAY_NOTE	Data from Table 3 Serum PFAS (medians, 25th–75th percentiles) according to Tanner stage, SES, age, and SDS for BMI, weight, and height
+ASSAY_NOTE	cross-sectional study of healthy normal-weight teenage boys exposed to low levels of PFASs
+ASSAY_NOTE	The Copenhagen Mother–Child Cohort is an ongoing longitudinal birth cohort. A total of 2098 mothers and their children, born between 1997 and 2001, were included in the original cohort
+ASSAY_NOTE	A total of 197 children had both an MRI scan and all anthropometric measurements
+ASSAY_NOTE	PFAS concentrations were only measured in serum from boys. Therefore, all girls were excluded from this study (n = 114).
+ASSAY_URL	https://ehjournal.biomedcentral.com/articles/10.1186/s12940-021-00758-3#Tab3
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Substance
+ASSAY_COMP_DESC	Substance acronym and units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	parameter
+ASSAY_COMP_DESC	measurement parameter
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	1
+ASSAY_COMP_DESC	Tanner stage (Total n = 100) = 1 (n =20)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	2
+ASSAY_COMP_DESC	Tanner stage (Total n = 100) = 2 (n = 33)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	3
+ASSAY_COMP_DESC	Tanner stage (Total n = 100) = 3 (n = 29)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	 4 + 5
+ASSAY_COMP_DESC	Tanner stage (Total n = 100) =  4 + 5 (n = 19)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	Tanner stage (Total n = 100); P-value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	 1
+ASSAY_COMP_DESC	SES (n = 108) = 1 (n = 58)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	  2–4
+ASSAY_COMP_DESC	SES (n = 108) =  2–4 (n = 51)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	SES (n = 108); P-value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	10–11.9
+ASSAY_COMP_DESC	Age (years) (Total = 109) = 10–11.9 (n = 36)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	 12.0–12.9
+ASSAY_COMP_DESC	Age (years) (Total = 109) =  12.0–12.9 (n = 41)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	13.0–15
+ASSAY_COMP_DESC	Age (years) (Total = 109) = 13.0–15 (n = 32)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	Age (years) (Total = 109); P-value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	  ≤ -1
+ASSAY_COMP_DESC	BMI SDS (total n = 109):  ≤ -1 (n = 22) [standard deviation score (SDS)]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	 > -1 to ≤ 0
+ASSAY_COMP_DESC	BMI SDS (total n = 109)  > -1 to ≤ 0 (n = 39)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	> 0 to ≤ 1
+ASSAY_COMP_DESC	BMI SDS (total n = 109) > 0 to ≤ 1 (n = 32)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	 > 1
+ASSAY_COMP_DESC	BMI SDS (total n = 109)  > 1 (n = 16)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	BMI SDS (total n = 109); P-value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	20
+ASSAY_COMP_NAME	 ≤ -1
+ASSAY_COMP_DESC	Weight SDS (total n =109)  ≤ -1 (n = 19) [standard deviation score (SDS)]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	21
+ASSAY_COMP_NAME	> -1 to ≤ 0
+ASSAY_COMP_DESC	Weight SDS (total n =109) > -1 to ≤ 0 (n = 35)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	22
+ASSAY_COMP_NAME	 > 0 to ≤ 1
+ASSAY_COMP_DESC	Weight SDS (total n =109)  > 0 to ≤ 1 (n = 37)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	23
+ASSAY_COMP_NAME	  > 1
+ASSAY_COMP_DESC	Weight SDS (total n =109)   > 1 (n = 18)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	24
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	Weight SDS (total n =109); P-value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	25
+ASSAY_COMP_NAME	  ≤ -1
+ASSAY_COMP_DESC	Height SDS (total n =109)  ≤ -1 (n = 15) [standard deviation score (SDS)]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	26
+ASSAY_COMP_NAME	 > -1 to ≤ 0
+ASSAY_COMP_DESC	Height SDS (total n =109)  > -1 to ≤ 0 9N = 33
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	27
+ASSAY_COMP_NAME	> 0 to ≤ 1
+ASSAY_COMP_DESC	Height SDS (total n =109) > 0 to ≤ 1 (n = 37)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	28
+ASSAY_COMP_NAME	  > 1
+ASSAY_COMP_DESC	Height SDS (total n =109)   > 1 (n = 24)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	29
+ASSAY_COMP_NAME	P-value
+ASSAY_COMP_DESC	Height SDS (total n =109); P-value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	30
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_CopenhagenMCC_PFAS_Boys_AID_1
+DATA_COLLECTION	Denmark CopenhagenMCC PFAS Boys
+ASSAY_NAME	PFAS in healthy boys in Copenhagan Denmark
+ASSAY_DESCRIPTION	PFAS in healthy boys in Danish Copenhagen Mother–Child Cohort
+ASSAY_NOTE	Publication: Thomsen, M.L., Henriksen, L.S., Tinggaard, J. et al. Associations between exposure to perfluoroalkyl substances and body fat evaluated by DXA and MRI in 109 adolescent boys. Environ Health 20, 73 (2021).
+ASSAY_NOTE	Data from Table 1 Characteristics of the study population and PFAS serum concentrations
+ASSAY_NOTE	cross-sectional study of healthy normal-weight teenage boys exposed to low levels of PFASs
+ASSAY_NOTE	The Copenhagen Mother–Child Cohort is an ongoing longitudinal birth cohort. A total of 2098 mothers and their children, born between 1997 and 2001, were included in the original cohort
+ASSAY_NOTE	A total of 197 children had both an MRI scan and all anthropometric measurements
+ASSAY_NOTE	PFAS concentrations were only measured in serum from boys. Therefore, all girls were excluded from this study (n = 114).
+ASSAY_URL	https://ehjournal.biomedcentral.com/articles/10.1186/s12940-021-00758-3#Tab3
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Category
+ASSAY_COMP_DESC	Chemical/parameter category, including units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Name or Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	n
+ASSAY_COMP_DESC	number of observations
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Boys
+ASSAY_COMP_DESC	Median concentration or value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	25th-75th percentiles
+ASSAY_COMP_DESC	25th-75th percentiles concentration or value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_PFAS_Maternal_Foetal_2017_AID_1
+DATA_COLLECTION	Denmark PFAS Maternal Foetal 2017
+ASSAY_NAME	PFAS in Denmark in maternal plasma and fetal tissues
+ASSAY_DESCRIPTION	PFAS in Denmark in human foetal organs, placenta, and maternal plasma
+ASSAY_NOTE	Publication: Concentration of perfluorinated compounds and cotinine in human foetal organs, placenta, and maternal plasma; Linn SaltoMamsen; Science of The Total Environment Volumes 596–597, 15 October 2017, Pages 97-105
+ASSAY_NOTE	Data from Table 2. Mean PFAS and cotinine concentrations in maternal plasma, placenta, and foetal organs. Cotinine was evaluated in the cases where the mother smoked (n = 14).
+ASSAY_NOTE	Thirty-nine Danish women who underwent legal termination of pregnancy before gestational week 12 were included
+ASSAY_NOTE	24 maternal blood samples were obtained together with 34 placental samples and 108 foetal organs
+ASSAY_NOTE	Cotinine was included as a measure of maternal smoking
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0048969717308926?via%3Dihub
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Name or Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Maternal plasma
+ASSAY_COMP_DESC	Maternal plasma (n = 24); Mean concentrations (range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Placenta (n = 34); Mean concentrations (range)
+ASSAY_COMP_DESC	Placenta
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/g
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Foetal organs
+ASSAY_COMP_DESC	Foetal organs (n = 108); Mean concentrations (range)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_PFAS_FaroeCohort_1997-2000_Time_AID_1
+DATA_COLLECTION	Denmark PFAS FaroeCohort 1997-2000 Time
+ASSAY_NAME	PFAS in serum of Faroe island cohort infants at time points
+ASSAY_DESCRIPTION	PFAS in serum of infants in Faroe Island cohort at birth and 3 time points
+ASSAY_NOTE	Publication: Breastfeeding as an Exposure Pathway for Perfluorinated Alkylates; Ulla B Morgensen et al.; Environ. Sci. Technol. 2015, 49, 17, 10466–10473
+ASSAY_NOTE	Data from Table 1. Characteristics of 81 Members of the Faroese Birth Cohort with Serum-PFAS Concentrations at Birth and at Ages 11, 18, and 60 Months
+ASSAY_NOTE	To determine the time-dependent impact of this exposure pathway, we examined the serum concentrations of five major PFASs in a Faroese birth cohort at birth, and at ages 11, 18, and 60 months
+ASSAY_NOTE	A birth cohort of 656 children born in the Faroe Islands was formed during 1997–2000 and followed prospectively
+ASSAY_NOTE	Sufficient serum volume for chemical analysis at ages 11 or 18 months was available for 81 children and for 538 children at age 60 months.
+ASSAY_URL	https://pubs.acs.org/doi/10.1021/acs.est.5b02237
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Name or Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Units
+ASSAY_COMP_DESC	Units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	At Birth
+ASSAY_COMP_DESC	At Birth; Number (%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Number (%)
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	At Birth
+ASSAY_COMP_DESC	At Birth; median (IQR) [IQR, interquartile range]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	age 11 months
+ASSAY_COMP_DESC	age 11 months; Number (%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Number (%)
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	age 11 months
+ASSAY_COMP_DESC	age 11 months; median (IQR) [IQR, interquartile range]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	age 18 months
+ASSAY_COMP_DESC	age 18 months; Number (%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Number (%)
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	age 18 months
+ASSAY_COMP_DESC	age 18 months; median (IQR) [IQR, interquartile range]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	age 60 months
+ASSAY_COMP_DESC	age 60 months; Number (%)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Number (%)
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	age 60 months
+ASSAY_COMP_DESC	age 60 months; median (IQR) [IQR, interquartile range]
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_DNBC_PFAS_FEPOS_2017-2019_AID_1
+DATA_COLLECTION	Denmark DNBC PFAS FEPOS 2017-2019
+ASSAY_NAME	Maternal PFAS in plasma from Danish National Birth Cohort (DNBC) (FEPOS 2017-2019)
+ASSAY_DESCRIPTION	Maternal PFAS in plasma from the Puberty Cohort (2017-2019) nested within the Danish National Birth Cohort (DNBC)
+ASSAY_NOTE	Publication: Maternal Exposure to Per- and Polyfluoroalkyl Substances (PFAS) and Male Reproductive Function in Young Adulthood: Combined Exposure to Seven PFAS; Katia Keglberg Hærvig et al.; EHP Vol. 130, No. 10
+ASSAY_NOTE	Data from Table 1 Limits of detection for and distributions of PFAS plasma concentrations among the 864 mothers of sons included in this study (n=864).
+ASSAY_NOTE	Objectives: We examined associations between maternal plasma PFAS levels during early pregnancy and male offspring reproductive function in adulthood.
+ASSAY_NOTE	The study included 864 young men (age range:18.9–21.2 y) from the Fetal Programming of Semen Quality (FEPOS) cohort established between 2017 and 2019; using the Puberty Cohort nested within the Danish National Birth Cohort (DNBC)
+ASSAY_NOTE	Maternal plasma from 1998 to 2003, stored until analysis in 2020 and 2021
+ASSAY_NOTE	Pseudo median and percentiles were based on information from at least five individuals with values closest to the actual median/percentile.
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/full/10.1289/EHP10285
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Carbon chain length
+ASSAY_COMP_DESC	Carbon chain length
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD, Limits of detection, Batch 1
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD, Limits of detection, Batch 2
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	N (%) > LOD
+ASSAY_COMP_DESC	Number (%) above LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Number (%)
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	5th P
+ASSAY_COMP_DESC	5th Percentile concentration (pseudo)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	25th P
+ASSAY_COMP_DESC	25th Percentile concentration (pseudo)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median concentration (pseudo)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	75th P
+ASSAY_COMP_DESC	75th Percentile concentration (pseudo)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	95th P
+ASSAY_COMP_DESC	95th Percentile concentration (pseudo)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	Maximum
+ASSAY_COMP_DESC	Maximum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	IQR
+ASSAY_COMP_DESC	IQR, interquartile range
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_DNBC_PFAS_FEPOS_2017-2019_Sons_AID_1
+DATA_COLLECTION	Denmark DNBC PFAS FEPOS 2017-2019 Sons
+ASSAY_NAME	PFAS in plasma of young men from Danish National Birth Cohort (DNBC) (FEPOS 2017-2019)
+ASSAY_DESCRIPTION	PFAS in plasma of young men from the Puberty Cohort (2017-2019) nested within the Danish National Birth Cohort (DNBC)
+ASSAY_NOTE	Publication: Per- and polyfluoroalkyl substances (PFAS) and male reproductive function in young adulthood; a cross-sectional study; Kajsa Ugelvig Petersen et al.; Environmental Research Volume 212, Part A, September 2022, 113157
+ASSAY_NOTE	Data from Table 1. Limits of detection for and distributions of PFAS plasma concentrations among the 1041 young men in the FEPOS cohort.
+ASSAY_NOTE	Objectives: To examine biomarkers of reproductive function in young adult males according to current environmental exposure to single and combined PFAS.
+ASSAY_NOTE	The study included 864 young men (age range:18.9–21.2 y) from the Fetal Programming of Semen Quality (FEPOS) cohort established between 2017 and 2019; using the Puberty Cohort nested within the Danish National Birth Cohort (DNBC)
+ASSAY_NOTE	From 2017 to 2019, blood and semen samples were collected; stored until analyses in 2020 and 2021
+ASSAY_NOTE	Pseudo median and percentiles were based on information from at least five individuals with values closest to the actual median/percentile.
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0013935122004844?via%3Dihub
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Name
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Carbon chain length
+ASSAY_COMP_DESC	Carbon chain length
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD, Limits of detection, Batch 1
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD, Limits of detection, Batch 2
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	N (%) > LOD
+ASSAY_COMP_DESC	Number (%) above LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	Number (%)
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	5th P
+ASSAY_COMP_DESC	5th Percentile concentration (pseudo)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median concentration (pseudo)  (n=864)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	95th P
+ASSAY_COMP_DESC	95th Percentile concentration (pseudo)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Denmark_Aarhus_PFAA_Serum_1988-1989_AID_1
+DATA_COLLECTION	Denmark Aarhus PFAA Serum 1988-1989
+ASSAY_NAME	PFAS in maternal serum collected 1988-1989 in Denmark
+ASSAY_DESCRIPTION	PFAS in maternal serum collected 1988-1989 in a  pregnancy cohort established in Aarhus, Denmark,
+ASSAY_NOTE	Source: Associations of in Utero Exposure to Perfluorinated Alkyl Acids with Human Semen Quality and Reproductive Hormones in Adult Men; Anne Vested et al.; EHP Vol. 121, No.  4; Published:1 April 2013
+ASSAY_NOTE	Data from Table 1 Characteristics of participants (n = 169) and biologic samples according to tertiles of PFOA and PFOS concentrations in maternal serum at gestational week 30. And publication text
+ASSAY_NOTE	Objectives: We investigated whether in utero exposure to PFOA and PFOS affects semen quality, testicular volume, and reproductive hormone levels.
+ASSAY_NOTE	We recruited 169 male offspring (19–21 years of age) from a pregnancy cohort established in Aarhus, Denmark, in 1988–1989
+ASSAY_NOTE	2008–2009, sons invited and tested
+ASSAY_URL	https://ehp.niehs.nih.gov/doi/10.1289/ehp.1205118
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Parameter
+ASSAY_COMP_DESC	Measurement Parameter and number of samples
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Value
+ASSAY_COMP_DESC	Value
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Limits of quantification
+ASSAY_COMP_DESC	Limits of quantification
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+
+
+
+SOURCE_NAME_AID	Denmark_PFAS_FaroeseCohort5_2017_AID_1
+DATA_COLLECTION	Denmark PFAS FaroeseCohort5 2017
+ASSAY_NAME	PFAS in Child Serum Samples, Faroes, 2017
+ASSAY_DESCRIPTION	Faroese birth cohort 5, PFAS in Child Serum Samples, 2017
+ASSAY_NOTE	Source: Estimated Exposures to Perfluorinated Compounds in Infancy Predict Attenuated Vaccine Antibody Concentrations at Age 5-Years; Grandjean et al.; J Immunotoxicol. 2017 Dec; 14(1): 188–195.
+ASSAY_NOTE	Data from Table 1. Characteristics of children who contributed serum antibody concentrations at the two follow-up examinations in Cohort 5
+ASSAY_NOTE	Of 490 members of a Faroese birth cohort, 275 and 349 participated in clinical examinations and provided blood samples at ages 18 months and 5 years. 
+ASSAY_URL	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190594/
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	name
+ASSAY_COMP_DESC	Substance Acronym or measurement parameter
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	units
+ASSAY_COMP_DESC	units
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Age 18 months
+ASSAY_COMP_DESC	Age 18 months (N=275); Median (25; 75 percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Age 5 years
+ASSAY_COMP_DESC	Age 5 years (N=349); Median (25; 75 percentile)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END

@@ -1,0 +1,342 @@
+SOURCE_NAME_AID	Japan_Designated_Substances_Class_I_Old_AID_1
+DATA_COLLECTION	Japan Designated Substances Class I Old
+ASSAY_NAME	Japan's Class I Designated Chemical Substances (Old)
+ASSAY_DESCRIPTION	Japan's Class I Designated Chemical Substances (Old) "Old" means chemicals before revision.  Class I chemicals are Persistent, Highly bioaccumulative. Has long-term toxicity for humans or long-term toxicity predator animals at higher trophic level.
+ASSAY_URL	http://www.prtr.nite.go.jp/english/class1e.html
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Specific Class I Designated Chemical Substances
+ASSAY_COMP_DESC	Specific Class I Designated Chemical Substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_NOTE	"Specific Class I Designated Chemical Substances" in this list is meant for those specified in Article 4 of Cabinet Order for Law Concerning Reporting ,etc .of Releases to the Environment of Specific Chemical Substances and Promoting Improvements in Their Management.
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_NOTE
+END
+SOURCE_NAME_AID	Japan_Designated_Substances_Class_I_New_AID_1
+DATA_COLLECTION	Japan Designated Substances Class I New
+ASSAY_NAME	Japan's Class I Designated Chemical Substances (New)
+ASSAY_DESCRIPTION	Japan's Class I Designated Chemical Substances (New) "New" means chemicals after revision.  Class I chemicals are Persistent, Highly bioaccumulative. Has long-term toxicity for humans or long-term toxicity predator animals at higher trophic level.
+ASSAY_URL	http://www.prtr.nite.go.jp/english/class1e_new.html
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Specific Class I Designated Chemical Substances
+ASSAY_COMP_DESC	Specific Class I Designated Chemical Substances
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_NOTE	"Specific Class I Designated Chemical Substances" in this list is meant for those specified in Article 4 of Cabinet Order for Law Concerning Reporting ,etc .of Releases to the Environment of Specific Chemical Substances and Promoting Improvements in Their Management.
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_NOTE
+END
+SOURCE_NAME_AID	Japan_Designated_Substances_Class_II_Old_AID_1
+DATA_COLLECTION	Japan Designated Substances Class II Old
+ASSAY_NAME	Japan's Class II Designated Chemical Substances (Old)
+ASSAY_DESCRIPTION	Japan's Class II Designated Chemical Substances (Old) "Old" means chemicals before revision.  Class II chemicals have long-term toxicity for humans or flora and fauna in the human living environment. Has risk.
+ASSAY_URL	http://www.prtr.nite.go.jp/english/class2e.html
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_NOTE
+END
+SOURCE_NAME_AID	Japan_Designated_Substances_Class_II_New_AID_1
+DATA_COLLECTION	Japan Designated Substances Class II New
+ASSAY_NAME	Japan's Class II Designated Chemical Substances (New)
+ASSAY_DESCRIPTION	Japan's Class II Designated Chemical Substances (New) "New" means chemicals after revision.  Class II chemicals have long-term toxicity for humans or flora and fauna in the human living environment. Has risk.
+ASSAY_URL	http://www.prtr.nite.go.jp/english/class2e_new.html
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	URL
+ASSAY_COMP_DESC	URL
+ASSAY_COMP_VALUE_TYPE	URL
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_NOTE
+END
+SOURCE_NAME_AID	Japan_Risk_Assessments_AID_1
+DATA_COLLECTION	Japan Risk Assessments
+ASSAY_NAME	Japan's Summary of Initial Risk Assessments
+ASSAY_DESCRIPTION	Japan's Summary of Risk Assessments for 150 substances - In Japan, a project entitled "Risk Assessment and Development of Methods for the Risk Assessment of Chemical Substances," funded by the New Energy and Industrial Technology Development Organization (NEDO), was started in 2001. Through this project, risk assessment methods for chemical substances in the environment were developed, and the series, "Initial Risk  Assessment Reports for Chemical Substances" was published. This series of reports covers 150 substances. The reports were created by the National Institute of Technology and Evaluation (NITE) and the Chemicals Evaluation and Research Institute, Japan (CERI).
+ASSAY_URL	http://www.safe.nite.go.jp/english/risk/initial_risk.html
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	URLs
+ASSAY_COMP_DESC	Chemical-specoific URLs
+ASSAY_COMP_VALUE_TYPE	URL
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Annotation
+ASSAY_NOTE
+END
+SOURCE_NAME_AID	Japan_PFAS_JECS_Pilot_2020_AID_1
+DATA_COLLECTION	Japan PFAS JECS Pilot 2020
+ASSAY_NAME	PFAS analysis of PFAS in serum samples (JECS Pilot Study)
+ASSAY_DESCRIPTION	Japan NIES analysis of serum samples from Pilot Study of the Japan Environment and Children's Study (JECS)
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0021967320301205
+ASSAY_NOTE	Source: Poly- and perfluoroalkyl substances in maternal serum: Method development and application in Pilot Study of the Japan Environment and Children’s Study; Journal of Chromatography A. Volume 1618, 10 May 2020, 460933
+ASSAY_NOTE	Data from Table 7 PFAS concentrations in human serum samples from the JECS Pilot Study (n = 339).
+ASSAY_NOTE	method development: Protein precipitation, automatic SPE pre-treatment and column-switching LC-MS/MS were used and optimised in this study. 
+ASSAY_NOTE	analysis of the levels of 28 PFAS in 339 maternal serum samples from Pilot Study of the Japan Environment and Children's Study.
+ASSAY_NOTE	PFBA, PFPA, PFHxA, perfluorotetradecanoic acid (PFTeDA), PFHxDA, PFODA, perfluorodecane sulphonic acid (PFDS), EtFOSA-A, MeFOSA-M, EtFOSA-M, 4:2 FTS, 6:2 FTS, 8:2 FTS and diSAmPAP were below the LCMRLs in all samples
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Min
+ASSAY_COMP_DESC	Minimum Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	Median
+ASSAY_COMP_DESC	Median Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	75th percentile
+ASSAY_COMP_DESC	Concentration, 75th percentile
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	Max
+ASSAY_COMP_DESC	Maximum Concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	Detection
+ASSAY_COMP_DESC	Number of Detections
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	Detection
+ASSAY_COMP_DESC	% Detected
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	% l-PFAS
+ASSAY_COMP_DESC	% linear-PFAS, Mean (SD)
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Japan_PFAS_Maternal_Cord_2003_AID_3
+DATA_COLLECTION	Japan PFAS Maternal Cord 2003
+ASSAY_NAME	PFAS in maternal and cord serum in Japan 2003
+ASSAY_DESCRIPTION	 PFAS in maternal and cord serum in Hokkaido, Japan 2003
+ASSAY_URL	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1247483/
+ASSAY_NOTE	Source: Perfluorooctane Sulfonate (PFOS) and Related Perfluorinated Compounds in Human Maternal and Cord Blood Samples: Assessment of PFOS Exposure in a Susceptible Population; Koichi Inoue, et al.; Environ Health Perspect  v.112(11); 2004 Aug
+ASSAY_NOTE	Data from Table 2 Concentrations (ng/mL) of FOC congeners (PFOS, PFOA, and PFOSA) in maternal and cord blood samples (n = 15).
+ASSAY_NOTE	We recruited subjects between February and July 2003 at Sapporo Toho Hospitals in Hokkaido, Japan
+ASSAY_NOTE	FOCs in 15 pairs of maternal and cord blood samples. Pregnant women 17–37 years of age were enrolled as subjects.
+ASSAY_NOTE	Blood was sampled from pregnant women between gestation weeks 38 and 41 
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Sample
+ASSAY_COMP_DESC	Sample
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME
+ASSAY_COMP_DESC	Participant 1
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	2
+ASSAY_COMP_DESC	Participant 2
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	3
+ASSAY_COMP_DESC	Participant 3
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	4
+ASSAY_COMP_DESC	Participant 4
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	5
+ASSAY_COMP_DESC	Participant 5
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	6
+ASSAY_COMP_DESC	Participant 6
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	7
+ASSAY_COMP_DESC	Participant 7
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	8
+ASSAY_COMP_DESC	Participant 8
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	11
+ASSAY_COMP_NAME	9
+ASSAY_COMP_DESC	Participant 9
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	12
+ASSAY_COMP_NAME	10
+ASSAY_COMP_DESC	Participan10
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	13
+ASSAY_COMP_NAME	11
+ASSAY_COMP_DESC	Participant 11
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	14
+ASSAY_COMP_NAME	12
+ASSAY_COMP_DESC	Participant 12
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	15
+ASSAY_COMP_NAME	13
+ASSAY_COMP_DESC	Participant 13
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	16
+ASSAY_COMP_NAME	14
+ASSAY_COMP_DESC	Participant 14
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	17
+ASSAY_COMP_NAME	15
+ASSAY_COMP_DESC	Participant 16
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	18
+ASSAY_COMP_NAME	LOD
+ASSAY_COMP_DESC	LOD
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	19
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
+SOURCE_NAME_AID	Japan_PFAS_Hokkaido_Plasma_2003-2012_AID_1
+DATA_COLLECTION	Japan PFAS Hokkaido Plasma 2003-2012
+ASSAY_NAME	PFAS in maternal plasma in Japanese Hokkaido Study (2003-2012)
+ASSAY_DESCRIPTION	 PFAS in maternal plasma in Japanese Hokkaido Study (2003-2012)
+ASSAY_URL	https://www.sciencedirect.com/science/article/pii/S0160412020319346?via%3Dihub
+ASSAY_NOTE	Source: Ait Bamai Y, Goudarzi H, Araki A, Okada E, Kashino I, Miyashita C, Kishi R. 2020. Effect of prenatal exposure to per- and polyfluoroalkyl substances on childhood allergies and common infectious diseases in children up to age 7 years: The Hokkaido study on environment and children's health. Environ Int. 2020 Oct;143:105979.
+ASSAY_NOTE	Data from Table 2. Distribution of maternal plasma PFAS levels (ng/mL).
+ASSAY_NOTE	This study is a part of the Hokkaido study on environment and children's health (The Hokkaido Study)
+ASSAY_NOTE	we included 2689 children who had completed maternal prenatal PFAS measurements and questionnaires at 7 years of age
+ASSAY_NOTE	Briefly, of 20,926 children enrolled from February 2003 to March 2012, 20,787 had available data for analysis.
+QC_STATUS	QUEUED
+ASSAY_COMP_ID	1
+ASSAY_COMP_NAME	Acronym
+ASSAY_COMP_DESC	Substance Acronym
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	2
+ASSAY_COMP_NAME	MDL
+ASSAY_COMP_DESC	method of detection limit.
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	3
+ASSAY_COMP_NAME	>MDL
+ASSAY_COMP_DESC	greater than MDL
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	%
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	4
+ASSAY_COMP_NAME	Min
+ASSAY_COMP_DESC	Minimum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	5
+ASSAY_COMP_NAME	25th
+ASSAY_COMP_DESC	25th percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	6
+ASSAY_COMP_NAME	50th
+ASSAY_COMP_DESC	50th percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	7
+ASSAY_COMP_NAME	75th
+ASSAY_COMP_DESC	75th percentile concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	8
+ASSAY_COMP_NAME	max
+ASSAY_COMP_DESC	maximum concentration
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT	ng/mL
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	9
+ASSAY_COMP_NAME	Notes
+ASSAY_COMP_DESC	Notes
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+ASSAY_COMP_ID	10
+ASSAY_COMP_NAME	Population city
+ASSAY_COMP_DESC	Population city
+ASSAY_COMP_VALUE_TYPE	TEXT
+ASSAY_COMP_UNIT
+ASSAY_COMP_TYPE	Primary
+END
