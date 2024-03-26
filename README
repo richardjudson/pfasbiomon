@@ -1,0 +1,48 @@
+THis file contains instructions for managing code (git, documentation, ...)
+
+---------------------------------------------------------------------------------------------
+Code Documentation
+---------------------------------------------------------------------------------------------
+run the following repeatedly until no errors exist ot get the code docuemntation clean
+
+devtools::document()
+
+To create package documentation
+
+On Linux (sc)
+1. cd to the project directory
+2. run roxygen2::roxygenize(). This will create the Rd files in the man directory of the main package directory
+3. on Linux, cd to the diretory above the package directory
+4. run R CMD Rd2pdf <packagename>
+
+On Windows ....
+Pointing to pdflatex ...
+
+Sys.setenv(PATH=paste(Sys.getenv("PATH"),"C:/Program Files/MiKTeX 2.9/miktex/bin/x64/",sep=";"))
+
+Running documentation - this builds the file toxvaldb09_manual.pdf
+
+Sys.setenv(PATH = paste(Sys.getenv("PATH"), "C:/Program Files/MiKTeX 2.9/miktex/bin/x64", sep=.Platform$path.sep))
+Sys.setenv(R_PAPERSIZE="letter")
+system("R CMD Rd2pdf . --title=pfasbiomon pfasbiomon --output=pfasbiomon_manual.pdf --force --no-clean --internals")
+
+---------------------------------------------------------------------------------------------
+Managing git
+---------------------------------------------------------------------------------------------
+
+echo "# pfasbiomon" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/USEPA/pfasbiomon.git
+git push -u origin main
+
+git remote add origin https://github.com/richardjudson/pfasbiomon.git
+
+##git remote add origin https://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@github.com/USEPA/pfasbiomon.git/
+
+git branch -M master
+git push -u origin master
+
+

@@ -1,10 +1,10 @@
+#'
+#' Code to format the NHANES data
+#' Note that this will only run under R 4.x
+#'
 library(foreign)
 library(openxlsx)
 library(stringr)
-#' Code to format the NHANES data
-#' Note that this will only run under R 4.x
-#' @param dir The directory to look for data
-#' @param dataset The name of the NHANES dataset
 extract_NHANES <- function(dir="../data/",
                             dataset="PFAS_J") {
 
