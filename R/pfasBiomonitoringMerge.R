@@ -8,7 +8,6 @@ pfasBiomonitoringMerge <- function() {
   dir = paste0("data/")
   file = paste0(dir,"actor pfas biomonitoring filtered 2023-01-09.xlsx")
   print(file)
-<<<<<<< HEAD
   mat1 = read.xlsx(file)
   cat("mat1:",nrow(mat1),"\n")
   mat1 = mat1[mat1$qc=="pass",]
@@ -45,19 +44,18 @@ pfasBiomonitoringMerge <- function() {
   cat("mat3:",nrow(mat3),"\n")
 
   mat = unique(rbind(mat,mat2,mat3))
-=======
-  mat = read.xlsx(file)
->>>>>>> b2be921aa969fd6043a04185cf1a837516537902
-
-  file = paste0(dir,"3M final/PFAS_3M data 2023-01-11_Final.xlsx")
-  print(file)
-  mat2 = read.xlsx(file)
-  mat2 = mat2[,names(mat)]
-
-  file = paste0(dir,"all dataset data 2023-01-13.xlsx")
-  print(file)
-  mat3 = read.xlsx(file)
-  mat = rbind(mat,mat2,mat3)
+  # mat = read.xlsx(file)
+  #
+  #
+  # file = paste0(dir,"3M final/PFAS_3M data 2023-01-11_Final.xlsx")
+  # print(file)
+  # mat2 = read.xlsx(file)
+  # mat2 = mat2[,names(mat)]
+  #
+  # file = paste0(dir,"all dataset data 2023-01-13.xlsx")
+  # print(file)
+  # mat3 = read.xlsx(file)
+  # mat = rbind(mat,mat2,mat3)
 
   mat = mat[mat$qc=="pass",]
   mat = mat[mat$useme>=1,]
@@ -73,10 +71,7 @@ pfasBiomonitoringMerge <- function() {
             "98th percentile","99th percentile",
             "maximum","mean","median","minimum",
             "concentration","LOD","LOQ")
-<<<<<<< HEAD
 
-=======
->>>>>>> b2be921aa969fd6043a04185cf1a837516537902
   mat = mat[is.element(mat$metric,mlist),]
   mat$value = as.numeric(mat$value)
   #ulist = c("ug/L","ng/mL","ng/L","pg/mL","ng/g")
@@ -218,13 +213,7 @@ pfasBiomonitoringMerge <- function() {
 
   sty = createStyle(halign="center",valign="center",textRotation=90,textDecoration = "bold")
   file = paste0(dir,"PFAS biomonitoring data final.xlsx")
-<<<<<<< HEAD
   write.xlsx(mat,file,firstRow=T,headerStyle=sty)
   file = paste0(dir,"PFAS biomonitoring assays final.xlsx")
   write.xlsx(assays,file,firstRow=T,headerStyle=sty)
-=======
-  write.xlsx(mat,file)
-  file = paste0(dir,"PFAS biomonitoring assays final.xlsx")
-  write.xlsx(assays,file)
->>>>>>> b2be921aa969fd6043a04185cf1a837516537902
 }

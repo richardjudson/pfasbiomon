@@ -13,8 +13,4 @@ Description: The package takes data from PFAS biomonitoring studies (blood, plas
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-<<<<<<< HEAD
 RoxygenNote: 7.3.1
-=======
-RoxygenNote: 7.2.3
->>>>>>> b2be921aa969fd6043a04185cf1a837516537902
