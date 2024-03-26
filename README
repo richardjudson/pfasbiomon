@@ -40,8 +40,6 @@ git push -u origin main
 
 git remote add origin https://github.com/richardjudson/pfasbiomon.git
 
-##git remote add origin https://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@github.com/USEPA/pfasbiomon.git/
-
 git branch -M master
 git push -u origin master
 
