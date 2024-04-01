@@ -40,7 +40,8 @@ pfasInVitroVsRat <- function(to.file=F) {
        yaxt="n",
        xaxt="n",
        main="In Vitro vs In Vivo PODs")
-  axis(side=1,at=c(1,10,100,1000,10000,100000))
+  labvals = c(1,10,100,1000,10000,100000)
+  axis(side=1,at=labvals,labels=scientific_10_v2(labvals))
 
   for(conc in c(10,100,1000,10000,100000)) lines(c(conc,conc),c(0,1000),col="gray")
   #cnames =c("PFBS","PFHxA","PFOA","PFDA","PFOS","PFNA","PFHxSK")

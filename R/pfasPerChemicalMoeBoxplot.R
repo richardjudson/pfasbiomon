@@ -63,7 +63,9 @@ pfasPerChemicalMoeBoxplot <- function(to.file=F) {
         geom_boxplot(outlier.colour="black",
                      outlier.shape=21,outlier.size=2,outlier.fill="white",
                      notch=FALSE) +
-        scale_y_continuous(trans="log10",limits=c(0.01,10000)) +
+        #scale_y_continuous(trans="log10",limits=c(0.01,10000)) +
+        scale_y_continuous(trans="log10",limits=c(0.01,10000),breaks=c(0.01,0.1,1,10,100,1000,10000),
+                           label = scientific_10_v2) +
         #scale_fill_manual(values=c("white","red")) +
         coord_flip() +
         theme_bw() +
@@ -116,54 +118,5 @@ pfasPerChemicalMoeBoxplot <- function(to.file=F) {
       else browser()
     }
   }
-  # cat("build the raw MoE table\n")
-  # metric.list = unique(mat$metric)
-  # metric.list = metric.list[!is.element(metric.list,c("  LOD","  LOQ"))]
-  # minvals = minvals[!is.na(minvals$minpod),]
-  # rownames(minvals) = minvals$dtxsid
-  # metrics = NULL
-  # moes = NULL
-  # name.list = c("study","dtxsid","casrn","name","nickname","population","location","source","snaid","matrix","metric","value","units","minpod","moe")
-  # row = as.data.frame(matrix(nrow=1,ncol=length(name.list)))
-  # names(row) = name.list
-  # res = NULL
-  # dlist = minvals$dtxsid
-  # for(i in 1:length(dlist)) {
-  #   dtxsid = dlist[i]
-  #   minval = minvals[dtxsid,"minpod"]
-  #   temp = mat[is.element(mat$dtxsid,dtxsid),]
-  #   temp = temp[temp$value>0,]
-  #   temp = temp[is.element(temp$metric,metric.list),]
-  #   if(nrow(temp)>0) {
-  #     for(j in 1:nrow(temp)) {
-  #       x = temp[j,"metric"]
-  #       y = temp[j,"value"]
-  #       moe = minval/y
-  #       metrics = c(metrics,x)
-  #       moes = c(moes,moe)
-  #
-  #       row[1,"study"] = temp[j,"assay_name"]
-  #       row[1,"dtxsid"] = temp[j,"dtxsid"]
-  #       row[1,"casrn"] = temp[j,"casrn"]
-  #       row[1,"name"] = temp[j,"name"]
-  #       row[1,"nickname"] = temp[j,"nickname"]
-  #       #if(is.element(dtxsid,synonyms$dtxsid)) row[1,"nickname"] = synonyms[is.element(synonyms$dtxsid,dtxsid),"nickname"]
-  #       row[1,"population"] = temp[j,"population"]
-  #       row[1,"location"] = temp[j,"location"]
-  #       row[1,"source"] = temp[j,"source"]
-  #       row[1,"snaid"] = temp[j,"snaid"]
-  #       row[1,"metric"] = temp[j,"metric"]
-  #       row[1,"matrix"] = temp[j,"matrix"]
-  #       row[1,"value"] = temp[j,"value"]
-  #       row[1,"units"] = temp[j,"units"]
-  #       row[1,"minpod"] = minval
-  #       row[1,"moe"] = moe
-  #       res = rbind(res,row)
-  #     }
-  #   }
-  # }
-  # file = paste0(dir,"PFAS biomonitoring raw moe.xlsx")
-  # res = unique(res)
-  # write.xlsx(res,file)
 }
 

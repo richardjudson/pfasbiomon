@@ -3,6 +3,7 @@ library(gplots)
 library(ggplot2)
 library(stringr)
 library(forcats)
+library(ggtext)
 #library(scales)
 #-------------------------------------------------------------------------------
 #' Plot the distribution of PODs
@@ -25,9 +26,13 @@ pfasMoeBoxplot <- function(to.file=F) {
     geom_boxplot(outlier.colour="black",
                  outlier.shape=21,outlier.size=2,outlier.fill="white",
                  notch=FALSE) +
+    #scale_y_continuous(trans="log10",limits=c(0.01,10000),breaks=c(0.01,0.1,1,10,100,1000,10000),
+    #                   labels = function(x) format(x, scientific = TRUE,digits=NULL)) +
     scale_y_continuous(trans="log10",limits=c(0.01,10000),breaks=c(0.01,0.1,1,10,100,1000,10000),
-                       labels = function(x) format(x, scientific = TRUE,digits=NULL)) +
-#    scale_y_continuous(trans="log10",breaks=pretty_breaks()) +
+                       label = scientific_10_v2) +
+    #scale_y_continuous(trans="log10",limits=c(0.01,10000),breaks=c(0.01,0.1,1,10,100,1000,10000),
+    #                   labels = function(x){return(paste0("10^", x))}) +
+    #    scale_y_continuous(trans="log10",breaks=pretty_breaks()) +
     scale_fill_manual(values=c("white","red")) +
     coord_flip() +
     theme_bw() +
